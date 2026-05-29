@@ -1,0 +1,5602 @@
+.page-UvQRXOVcbffX {
+  display: flex;
+  position: relative;
+  max-width: 100%;
+  margin: 0 auto;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+}
+
+.wrapper-DbNhnMTDM {
+  display: flex;
+  position: relative;
+  width: 100%;
+  margin: 0 auto;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+}
+
+.aside-DXidRv {
+  display: flex;
+  position: relative;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+  gap: calc(31vw/var(--resizer)*100);
+}
+
+.caption-twKinGVwzHHy {
+  display: flex;
+  position: relative;
+  justify-content: center;
+  align-items: center;
+  max-width: calc(650vw/var(--resizer)*100);
+  gap: calc(15vw/var(--resizer)*100);
+  margin: auto auto auto auto;
+  flex-direction: column;
+  text-align: center;
+}
+
+.desc-hHefek {
+  font-family: 'Brygada 1918', serif;
+  font-size: calc(46vw/var(--resizer)*100);
+  font-weight: 900;
+  color: #fff5a3;
+}
+
+.all-NIhgCGPZqBr {
+  font-family: 'Brygada 1918', serif;
+  font-size: calc(16vw/var(--resizer)*100);
+  font-weight: 400;
+  color: #fff5a3;
+  line-height: calc(24vw/var(--resizer)*100);
+}
+
+.grid-kZjjSAAUwujDtQ {
+  display: flex;
+  position: relative;
+  justify-content: center;
+  align-items: center;
+  gap: calc(10vw/var(--resizer)*100);
+  border-radius: calc(7vw/var(--resizer)*100);
+  appURL: index.html;
+  width: 100%;
+  height: calc(50vw/var(--resizer)*100);
+}
+
+.icon-sqnfqHmNiAgT {
+  display: flex;
+  position: relative;
+  justify-content: center;
+  align-items: center;
+  width: 35%;
+  height: calc(35vw/var(--resizer)*100);
+  border-radius: calc(11vw/var(--resizer)*100);
+  background-color: #dbaa8a;
+  appURL: themelist0.html;
+  padding: calc(5vw/var(--resizer)*100) calc(5vw/var(--resizer)*100) calc(5vw/var(--resizer)*100) calc(5vw/var(--resizer)*100);
+  gap: calc(31vw/var(--resizer)*100);
+}
+
+.btn-rSTLvSkgyzdaa {
+  font-weight: 900;
+  font-family: 'Brygada 1918', serif;
+  color: #17165d;
+  font-size: calc(16vw/var(--resizer)*100);
+}
+
+.button-guSadjSSV {
+  display: flex;
+  position: relative;
+  justify-content: center;
+  align-items: center;
+  width: 35%;
+  height: calc(35vw/var(--resizer)*100);
+  border-radius: calc(11vw/var(--resizer)*100);
+  background-color: #fff5a3;
+  appURL: themelist0.html;
+  padding: calc(5vw/var(--resizer)*100) calc(5vw/var(--resizer)*100) calc(5vw/var(--resizer)*100) calc(5vw/var(--resizer)*100);
+  gap: calc(31vw/var(--resizer)*100);
+}
+
+.lg-VsOBsD {
+  font-weight: 900;
+  font-family: 'Brygada 1918', serif;
+  color: #17165d;
+  font-size: calc(16vw/var(--resizer)*100);
+}
+
+.inner-QeomFqJEGeuGzUj {
+  display: flex;
+  position: relative;
+  justify-content: center;
+  align-items: center;
+  width: 112%;
+  height: max-content;
+  gap: calc(35vw/var(--resizer)*100);
+  padding: calc(50vw/var(--resizer)*100) 10% calc(50vw/var(--resizer)*100) 10%;
+  flex-direction: column;
+}
+
+.wrap-jzesBStvWRmB {
+  display: flex;
+  position: relative;
+  justify-content: center;
+  align-items: center;
+}
+
+.active-cqtALWFsddwmYrZ {
+  display: flex;
+  position: relative;
+  justify-content: center;
+  align-items: center;
+  text-align: undefined;
+}
+
+.page-JXStgBXWqOESA {
+  font-family: 'Brygada 1918', serif;
+  font-size: calc(46vw/var(--resizer)*100);
+  font-weight: 900;
+  color: #fff5a3;
+}
+
+.preview-suoRROFCJIjQkAwd {
+  display: flex;
+  position: relative;
+  justify-content: center;
+  align-items: center;
+  width: 100%;
+  height: max-content;
+  margin: calc(0vw/var(--resizer)*100) auto calc(0vw/var(--resizer)*100) auto;
+}
+
+.desc-xbMijcwZpVHHfKDQ {
+  display: flex;
+  position: relative;
+  justify-content: center;
+  align-items: center;
+  max-width: 100%;
+  gap: calc(18vw/var(--resizer)*100);
+  flex-wrap: wrap;
+  width: 100%;
+  column-gap: calc(17vw/var(--resizer)*100);
+}
+
+.button-nJJOctCNNSZiFjJ {
+  display: flex;
+  position: relative;
+  justify-content: center;
+  align-items: center;
+  width: calc(650vw/var(--resizer)*100);
+  height: calc(500vw/var(--resizer)*100);
+  border-radius: calc(1vw/var(--resizer)*100);
+  max-width: calc(650vw/var(--resizer)*100);
+  max-height: calc(500vw/var(--resizer)*100);
+  object-fit: cover;
+  object-position: top;
+  flex-shrink: 0;
+  box-shadow: calc(-3vw/var(--resizer)*100) calc(3vw/var(--resizer)*100) calc(10vw/var(--resizer)*100) calc(1vw/var(--resizer)*100) rgba(255, 245, 163, .4);
+}
+
+.narrow-BwguqDmtjDUrja {
+  display: flex;
+  position: relative;
+  justify-content: center;
+  align-items: center;
+  width: calc(650vw/var(--resizer)*100);
+  height: calc(500vw/var(--resizer)*100);
+  border-radius: calc(1vw/var(--resizer)*100);
+  max-width: calc(650vw/var(--resizer)*100);
+  max-height: calc(500vw/var(--resizer)*100);
+  object-fit: cover;
+  object-position: top;
+  flex-shrink: 0;
+  box-shadow: calc(-3vw/var(--resizer)*100) calc(3vw/var(--resizer)*100) calc(10vw/var(--resizer)*100) calc(1vw/var(--resizer)*100) rgba(255, 245, 163, .4);
+}
+
+.image-YbbiuXbtycBy {
+  display: flex;
+  position: relative;
+  justify-content: center;
+  align-items: center;
+  width: calc(650vw/var(--resizer)*100);
+  height: calc(500vw/var(--resizer)*100);
+  border-radius: calc(1vw/var(--resizer)*100);
+  max-width: calc(650vw/var(--resizer)*100);
+  max-height: calc(500vw/var(--resizer)*100);
+  object-fit: cover;
+  object-position: top;
+  flex-shrink: 0;
+  box-shadow: calc(-3vw/var(--resizer)*100) calc(3vw/var(--resizer)*100) calc(10vw/var(--resizer)*100) calc(1vw/var(--resizer)*100) rgba(255, 245, 163, .4);
+}
+
+.container-spdSFdvDT {
+  display: flex;
+  position: relative;
+  justify-content: center;
+  align-items: center;
+  width: calc(650vw/var(--resizer)*100);
+  height: calc(500vw/var(--resizer)*100);
+  border-radius: calc(1vw/var(--resizer)*100);
+  max-width: calc(650vw/var(--resizer)*100);
+  max-height: calc(500vw/var(--resizer)*100);
+  object-fit: cover;
+  object-position: top;
+  flex-shrink: 0;
+  box-shadow: calc(-3vw/var(--resizer)*100) calc(3vw/var(--resizer)*100) calc(10vw/var(--resizer)*100) calc(1vw/var(--resizer)*100) rgba(255, 245, 163, .4);
+}
+
+.subject-HzmJRYg {
+  display: flex;
+  position: relative;
+  justify-content: center;
+  align-items: center;
+  width: calc(650vw/var(--resizer)*100);
+  height: calc(500vw/var(--resizer)*100);
+  border-radius: calc(1vw/var(--resizer)*100);
+  max-width: calc(650vw/var(--resizer)*100);
+  max-height: calc(500vw/var(--resizer)*100);
+  object-fit: cover;
+  object-position: top;
+  flex-shrink: 0;
+  box-shadow: calc(-3vw/var(--resizer)*100) calc(3vw/var(--resizer)*100) calc(10vw/var(--resizer)*100) calc(1vw/var(--resizer)*100) rgba(255, 245, 163, .4);
+}
+
+.thumb-GBRmKpOIn {
+  display: flex;
+  position: relative;
+  justify-content: center;
+  align-items: center;
+  width: calc(650vw/var(--resizer)*100);
+  height: calc(500vw/var(--resizer)*100);
+  border-radius: calc(1vw/var(--resizer)*100);
+  max-width: calc(650vw/var(--resizer)*100);
+  max-height: calc(500vw/var(--resizer)*100);
+  object-fit: cover;
+  object-position: top;
+  flex-shrink: 0;
+  box-shadow: calc(-3vw/var(--resizer)*100) calc(3vw/var(--resizer)*100) calc(10vw/var(--resizer)*100) calc(1vw/var(--resizer)*100) rgba(255, 245, 163, .4);
+}
+
+.page-sOsUWPoitMbgMy {
+  display: flex;
+  position: relative;
+  justify-content: center;
+  align-items: center;
+}
+
+.large-fuWBPkj {
+  display: flex;
+  position: relative;
+  justify-content: center;
+  align-items: center;
+  max-width: calc(650vw/var(--resizer)*100);
+  gap: calc(15vw/var(--resizer)*100);
+  margin: auto auto auto auto;
+  flex-direction: column;
+  text-align: center;
+}
+
+.subject-gdiwJoi {
+  font-family: 'Brygada 1918', serif;
+  font-size: calc(46vw/var(--resizer)*100);
+  font-weight: 900;
+  color: #fff5a3;
+}
+
+.medium-IlGZSJzqToEEqSF {
+  font-family: 'Brygada 1918', serif;
+  font-size: calc(16vw/var(--resizer)*100);
+  font-weight: 400;
+  color: #fff5a3;
+  line-height: calc(24vw/var(--resizer)*100);
+}
+
+.sm-TFwQyAjR {
+  display: flex;
+  position: relative;
+  justify-content: center;
+  align-items: center;
+  gap: calc(31vw/var(--resizer)*100);
+  flex-direction: row;
+}
+
+.title-zPdFBFfOM {
+  display: flex;
+  position: relative;
+  margin: auto;
+  border: none;
+  justify-content: center;
+  align-items: center;
+  box-sizing: border-box;
+  width: calc(250vw/var(--resizer)*100);
+  height: calc(50vw/var(--resizer)*100);
+  padding: calc(0vw/var(--resizer)*100) calc(10vw/var(--resizer)*100) calc(0vw/var(--resizer)*100) calc(10vw/var(--resizer)*100);
+  color: #fff5a3;
+  background-color: #470099;
+  font-size: calc(16vw/var(--resizer)*100);
+  text-align: undefined;
+  border-radius: calc(46vw/var(--resizer)*100);
+}
+
+.inner-hMISPPgKvwLcXT {
+  display: flex;
+  position: relative;
+  margin: auto;
+  border: none;
+  justify-content: center;
+  align-items: center;
+  box-sizing: border-box;
+  width: calc(250vw/var(--resizer)*100);
+  height: calc(50vw/var(--resizer)*100);
+  padding: calc(0vw/var(--resizer)*100) calc(10vw/var(--resizer)*100) calc(0vw/var(--resizer)*100) calc(10vw/var(--resizer)*100);
+  color: #17165d;
+  background-color: #dbaa8a;
+  font-size: calc(16vw/var(--resizer)*100);
+  border-radius: calc(46vw/var(--resizer)*100);
+}
+
+.huge-MqGJyfKxStjcM {
+  display: flex;
+  position: relative;
+  justify-content: center;
+  align-items: center;
+}
+
+.picture-ipvyeK {
+  display: flex;
+  position: relative;
+  justify-content: center;
+  align-items: center;
+  text-align: undefined;
+}
+
+.col-egLUEpVFE {
+  font-family: 'Brygada 1918', serif;
+  font-size: calc(46vw/var(--resizer)*100);
+  font-weight: 900;
+  color: #fff5a3;
+}
+
+.container-QfSxbhAJv {
+  display: flex;
+  position: relative;
+  justify-content: space-evenly;
+  align-items: center;
+  width: 100%;
+  height: 100%;
+  gap: calc(22vw/var(--resizer)*100);
+  margin: auto auto auto auto;
+  flex-wrap: wrap;
+}
+
+.tagline-JHOsbXZmxBH {
+  display: flex;
+  position: relative;
+  justify-content: center;
+  align-items: center;
+  min-width: calc(663vw/var(--resizer)*100);
+  max-width: calc(663vw/var(--resizer)*100);
+  height: calc(437vw/var(--resizer)*100);
+  padding: calc(24vw/var(--resizer)*100) calc(24vw/var(--resizer)*100) calc(24vw/var(--resizer)*100) calc(24vw/var(--resizer)*100);
+  flex-direction: row;
+  background-color: #17165d;
+  flex: 1;
+  border-radius: calc(11vw/var(--resizer)*100);
+  border-top: calc(3vw/var(--resizer)*100) ridge #fff5a3;
+  border-bottom: calc(3vw/var(--resizer)*100) ridge #fff5a3;
+  gap: calc(10vw/var(--resizer)*100);
+}
+
+.narrow-wdLuXKwpKXhHTIxl {
+  display: flex;
+  position: relative;
+  justify-content: center;
+  align-items: center;
+  border-radius: calc(11vw/var(--resizer)*100);
+  margin: 10;
+}
+
+.thumb-qYffZRgtf {
+  display: flex;
+  position: relative;
+  justify-content: center;
+  align-items: center;
+  max-width: max-content;
+  gap: calc(24vw/var(--resizer)*100);
+  flex-wrap: wrap;
+}
+
+.sidebar-RqaBljFYqhwEjotc {
+  display: flex;
+  position: relative;
+  justify-content: center;
+  align-items: center;
+  width: calc(160vw/var(--resizer)*100);
+  height: calc(160vw/var(--resizer)*100);
+  border-radius: calc(11vw/var(--resizer)*100);
+  margin: calc(10vw/var(--resizer)*100) calc(10vw/var(--resizer)*100) calc(10vw/var(--resizer)*100) calc(10vw/var(--resizer)*100);
+  box-shadow: 0 1px 2px 0 rgba(60,64,67,.3),0 1px 3px 1px rgba(60,64,67,.15);
+}
+
+.huge-oOyGgIyJwmCiqH {
+  display: flex;
+  position: relative;
+  justify-content: center;
+  align-items: center;
+  width: calc(402vw/var(--resizer)*100);
+  gap: calc(10vw/var(--resizer)*100);
+  margin: 10;
+  flex-direction: column;
+}
+
+.aside-yYqfeKuPk {
+  display: flex;
+  position: relative;
+  justify-content: center;
+  align-items: center;
+  width: calc(402vw/var(--resizer)*100);
+  gap: calc(10vw/var(--resizer)*100);
+  border-radius: calc(13vw/var(--resizer)*100);
+  appURL: index.html;
+  height: calc(50vw/var(--resizer)*100);
+}
+
+.page-PMidXSnktvQrrSe {
+  display: flex;
+  position: relative;
+  justify-content: center;
+  align-items: center;
+  width: calc(221vw/var(--resizer)*100);
+  height: calc(45vw/var(--resizer)*100);
+  border-radius: calc(11vw/var(--resizer)*100);
+  background-color: #dbaa8a;
+  appURL: themelist1.html;
+}
+
+.narrow-wGllJTuoSpr {
+  font-weight: 900;
+  font-family: 'Brygada 1918', serif;
+  color: #17165d;
+  font-size: calc(17vw/var(--resizer)*100);
+}
+
+.grid-EMZhJOpySfZNpyz {
+  display: flex;
+  position: relative;
+  justify-content: center;
+  align-items: center;
+  width: auto;
+  gap: calc(10vw/var(--resizer)*100);
+  padding: calc(17vw/var(--resizer)*100) calc(5vw/var(--resizer)*100) calc(17vw/var(--resizer)*100) calc(5vw/var(--resizer)*100);
+  flex-direction: column;
+}
+
+.thumbnail-JLCqDWFrNXCj {
+  font-family: 'Brygada 1918', serif;
+  font-size: calc(16vw/var(--resizer)*100);
+  font-weight: 400;
+  color: #fff5a3;
+  text-align: left;
+}
+
+.md-SagWNKzDTzWx {
+  display: flex;
+  position: relative;
+  justify-content: center;
+  align-items: center;
+}
+
+.text-XvDHGqKJt {
+  font-family: 'Brygada 1918', serif;
+  font-size: calc(16vw/var(--resizer)*100);
+  font-weight: light;
+  color: #fff5a3;
+  font-style: normal;
+  line-height: calc(24vw/var(--resizer)*100);
+}
+
+.userpic-FLDOnZCZXjE {
+  display: flex;
+  position: relative;
+  justify-content: nowrap;
+  align-items: center;
+  width: auto;
+  gap: calc(5vw/var(--resizer)*100);
+  flex-direction: column;
+  padding: calc(21vw/var(--resizer)*100);
+}
+
+.pic-zXkcbVqOJBRnNge {
+  display: flex;
+  position: relative;
+  justify-content: center;
+  align-items: center;
+}
+
+.current-PFTQnVsuwNVDWt {
+  display: flex;
+  position: relative;
+  justify-content: center;
+  align-items: center;
+  width: max-content;
+  height: max-content;
+}
+
+.current-FlcEnq {
+  color: #fff5a3;
+  font-size: calc(18vw/var(--resizer)*100);
+  font-style: bold;
+}
+
+.grid-NdTXmFsYG {
+  display: flex;
+  position: relative;
+  justify-content: center;
+  align-items: center;
+}
+
+.huge-JHgUMF {
+  display: flex;
+  position: relative;
+  justify-content: center;
+  align-items: center;
+  width: max-content;
+  height: max-content;
+}
+
+.col-YdqZXt {
+  color: #fff5a3;
+  font-size: calc(18vw/var(--resizer)*100);
+  font-style: bold;
+}
+
+.wrapper-wRAGClXVNnkaHHP {
+  display: flex;
+  position: relative;
+  justify-content: center;
+  align-items: center;
+  min-width: calc(663vw/var(--resizer)*100);
+  max-width: calc(663vw/var(--resizer)*100);
+  height: calc(437vw/var(--resizer)*100);
+  padding: calc(24vw/var(--resizer)*100) calc(24vw/var(--resizer)*100) calc(24vw/var(--resizer)*100) calc(24vw/var(--resizer)*100);
+  flex-direction: row;
+  background-color: #17165d;
+  flex: 1;
+  border-radius: calc(11vw/var(--resizer)*100);
+  border-top: calc(3vw/var(--resizer)*100) ridge #fff5a3;
+  border-bottom: calc(3vw/var(--resizer)*100) ridge #fff5a3;
+  gap: calc(10vw/var(--resizer)*100);
+}
+
+.large-xhOKfODlMRoRL {
+  display: flex;
+  position: relative;
+  justify-content: center;
+  align-items: center;
+  border-radius: calc(11vw/var(--resizer)*100);
+  margin: 10;
+}
+
+.box-SRfsglohU {
+  display: flex;
+  position: relative;
+  justify-content: center;
+  align-items: center;
+  max-width: max-content;
+  gap: calc(24vw/var(--resizer)*100);
+  flex-wrap: wrap;
+}
+
+.inner-LeYSQInftJVZk {
+  display: flex;
+  position: relative;
+  justify-content: center;
+  align-items: center;
+  width: calc(160vw/var(--resizer)*100);
+  height: calc(160vw/var(--resizer)*100);
+  border-radius: calc(11vw/var(--resizer)*100);
+  margin: calc(10vw/var(--resizer)*100) calc(10vw/var(--resizer)*100) calc(10vw/var(--resizer)*100) calc(10vw/var(--resizer)*100);
+  box-shadow: 0 1px 2px 0 rgba(60,64,67,.3),0 1px 3px 1px rgba(60,64,67,.15);
+}
+
+.column-burfMarkCM {
+  display: flex;
+  position: relative;
+  justify-content: center;
+  align-items: center;
+  width: calc(402vw/var(--resizer)*100);
+  gap: calc(10vw/var(--resizer)*100);
+  margin: 10;
+  flex-direction: column;
+}
+
+.userpic-cmVgmZJMQCwe {
+  display: flex;
+  position: relative;
+  justify-content: center;
+  align-items: center;
+  width: calc(402vw/var(--resizer)*100);
+  gap: calc(10vw/var(--resizer)*100);
+  border-radius: calc(4vw/var(--resizer)*100);
+  appURL: index.html;
+  height: calc(50vw/var(--resizer)*100);
+}
+
+.huge-ggWFFL {
+  display: flex;
+  position: relative;
+  justify-content: center;
+  align-items: center;
+  width: calc(221vw/var(--resizer)*100);
+  height: calc(45vw/var(--resizer)*100);
+  border-radius: calc(11vw/var(--resizer)*100);
+  background-color: #dbaa8a;
+  appURL: themelist2.html;
+}
+
+.picture-KWdrsGf {
+  font-weight: 900;
+  font-family: 'Brygada 1918', serif;
+  color: #17165d;
+  font-size: calc(17vw/var(--resizer)*100);
+}
+
+.button-qCOuISzzjljsZJ {
+  display: flex;
+  position: relative;
+  justify-content: center;
+  align-items: center;
+  width: auto;
+  gap: calc(10vw/var(--resizer)*100);
+  padding: calc(17vw/var(--resizer)*100) calc(5vw/var(--resizer)*100) calc(17vw/var(--resizer)*100) calc(5vw/var(--resizer)*100);
+  flex-direction: column;
+}
+
+.small-NhidYO {
+  font-family: 'Brygada 1918', serif;
+  font-size: calc(16vw/var(--resizer)*100);
+  font-weight: 400;
+  color: #fff5a3;
+  text-align: left;
+}
+
+.desc-JNDvqiLiAajReHh {
+  display: flex;
+  position: relative;
+  justify-content: center;
+  align-items: center;
+}
+
+.page-UocBlI {
+  font-family: 'Brygada 1918', serif;
+  font-size: calc(16vw/var(--resizer)*100);
+  font-weight: light;
+  color: #fff5a3;
+  font-style: normal;
+  line-height: calc(24vw/var(--resizer)*100);
+}
+
+.big-TCEuAuhelJONUYJH {
+  display: flex;
+  position: relative;
+  justify-content: nowrap;
+  align-items: center;
+  width: auto;
+  gap: calc(5vw/var(--resizer)*100);
+  flex-direction: column;
+  padding: calc(21vw/var(--resizer)*100);
+}
+
+.thumb-KqomkZiMFKtkR {
+  display: flex;
+  position: relative;
+  justify-content: center;
+  align-items: center;
+}
+
+.wide-mnXYLQHq {
+  display: flex;
+  position: relative;
+  justify-content: center;
+  align-items: center;
+  width: max-content;
+  height: max-content;
+}
+
+.aside-dFoowkHEhXoTqDV {
+  color: #fff5a3;
+  font-size: calc(18vw/var(--resizer)*100);
+  font-style: bold;
+}
+
+.widget-kSNDlXeovVpSkq {
+  display: flex;
+  position: relative;
+  justify-content: center;
+  align-items: center;
+}
+
+.small-ggrPFFIcL {
+  display: flex;
+  position: relative;
+  justify-content: center;
+  align-items: center;
+  width: max-content;
+  height: max-content;
+}
+
+.column-SKqisopz {
+  color: #fff5a3;
+  font-size: calc(18vw/var(--resizer)*100);
+  font-style: bold;
+}
+
+.column-fjFCPlCfDAqCk {
+  display: flex;
+  position: relative;
+  justify-content: center;
+  align-items: center;
+  min-width: calc(663vw/var(--resizer)*100);
+  max-width: calc(663vw/var(--resizer)*100);
+  height: calc(437vw/var(--resizer)*100);
+  padding: calc(24vw/var(--resizer)*100) calc(24vw/var(--resizer)*100) calc(24vw/var(--resizer)*100) calc(24vw/var(--resizer)*100);
+  flex-direction: row;
+  background-color: #17165d;
+  flex: 1;
+  border-radius: calc(11vw/var(--resizer)*100);
+  border-top: calc(3vw/var(--resizer)*100) ridge #fff5a3;
+  border-bottom: calc(3vw/var(--resizer)*100) ridge #fff5a3;
+  gap: calc(10vw/var(--resizer)*100);
+}
+
+.heading-pTtMpYDEyPMjzb {
+  display: flex;
+  position: relative;
+  justify-content: center;
+  align-items: center;
+  border-radius: calc(11vw/var(--resizer)*100);
+  margin: 10;
+}
+
+.huge-cyBpJxBsgEnOhlQ {
+  display: flex;
+  position: relative;
+  justify-content: center;
+  align-items: center;
+  max-width: max-content;
+  gap: calc(24vw/var(--resizer)*100);
+  flex-wrap: wrap;
+}
+
+.col-vUqoQAyP {
+  display: flex;
+  position: relative;
+  justify-content: center;
+  align-items: center;
+  width: calc(160vw/var(--resizer)*100);
+  height: calc(160vw/var(--resizer)*100);
+  border-radius: calc(11vw/var(--resizer)*100);
+  margin: calc(10vw/var(--resizer)*100) calc(10vw/var(--resizer)*100) calc(10vw/var(--resizer)*100) calc(10vw/var(--resizer)*100);
+  box-shadow: 0 1px 2px 0 rgba(60,64,67,.3),0 1px 3px 1px rgba(60,64,67,.15);
+}
+
+.thumbnail-xoZYVE {
+  display: flex;
+  position: relative;
+  justify-content: center;
+  align-items: center;
+  width: calc(402vw/var(--resizer)*100);
+  gap: calc(10vw/var(--resizer)*100);
+  margin: 10;
+  flex-direction: column;
+}
+
+.large-CjGfwoiqhGhMPq {
+  display: flex;
+  position: relative;
+  justify-content: center;
+  align-items: center;
+  width: calc(402vw/var(--resizer)*100);
+  gap: calc(10vw/var(--resizer)*100);
+  border-radius: calc(19vw/var(--resizer)*100);
+  appURL: index.html;
+  height: calc(50vw/var(--resizer)*100);
+}
+
+.wide-qhMWrFUwoP {
+  display: flex;
+  position: relative;
+  justify-content: center;
+  align-items: center;
+  width: calc(221vw/var(--resizer)*100);
+  height: calc(45vw/var(--resizer)*100);
+  border-radius: calc(11vw/var(--resizer)*100);
+  background-color: #dbaa8a;
+  appURL: themelist3.html;
+}
+
+.title-RzqhRpqLnVY {
+  font-weight: 900;
+  font-family: 'Brygada 1918', serif;
+  color: #17165d;
+  font-size: calc(17vw/var(--resizer)*100);
+}
+
+.subtitle-mAIvMAjSw {
+  display: flex;
+  position: relative;
+  justify-content: center;
+  align-items: center;
+  width: auto;
+  gap: calc(10vw/var(--resizer)*100);
+  padding: calc(17vw/var(--resizer)*100) calc(5vw/var(--resizer)*100) calc(17vw/var(--resizer)*100) calc(5vw/var(--resizer)*100);
+  flex-direction: column;
+}
+
+.sidebar-RAmuZFbMxDcXAu {
+  font-family: 'Brygada 1918', serif;
+  font-size: calc(16vw/var(--resizer)*100);
+  font-weight: 400;
+  color: #fff5a3;
+  text-align: left;
+}
+
+.section-ggHrBer {
+  display: flex;
+  position: relative;
+  justify-content: center;
+  align-items: center;
+}
+
+.content-xRQXTihzs {
+  font-family: 'Brygada 1918', serif;
+  font-size: calc(16vw/var(--resizer)*100);
+  font-weight: light;
+  color: #fff5a3;
+  font-style: normal;
+  line-height: calc(24vw/var(--resizer)*100);
+}
+
+.widget-GHLeBkLu {
+  display: flex;
+  position: relative;
+  justify-content: nowrap;
+  align-items: center;
+  width: auto;
+  gap: calc(5vw/var(--resizer)*100);
+  flex-direction: column;
+  padding: calc(21vw/var(--resizer)*100);
+}
+
+.breadcrumbs-KEvFTdSTa {
+  display: flex;
+  position: relative;
+  justify-content: center;
+  align-items: center;
+}
+
+.medium-qCnZxZbFfFNx {
+  display: flex;
+  position: relative;
+  justify-content: center;
+  align-items: center;
+  width: max-content;
+  height: max-content;
+}
+
+.avatar-vSMTepGdqHf {
+  color: #fff5a3;
+  font-size: calc(18vw/var(--resizer)*100);
+  font-style: bold;
+}
+
+.breadcrumbs-wwDlGRceYTUdwp {
+  display: flex;
+  position: relative;
+  justify-content: center;
+  align-items: center;
+}
+
+.tip-muCvEwlXGr {
+  display: flex;
+  position: relative;
+  justify-content: center;
+  align-items: center;
+  width: max-content;
+  height: max-content;
+}
+
+.widget-fZQSGrDO {
+  color: #fff5a3;
+  font-size: calc(18vw/var(--resizer)*100);
+  font-style: bold;
+}
+
+.small-ftGRZaYskRJfaFl {
+  display: flex;
+  position: relative;
+  justify-content: center;
+  align-items: center;
+  min-width: calc(663vw/var(--resizer)*100);
+  max-width: calc(663vw/var(--resizer)*100);
+  height: calc(437vw/var(--resizer)*100);
+  padding: calc(24vw/var(--resizer)*100) calc(24vw/var(--resizer)*100) calc(24vw/var(--resizer)*100) calc(24vw/var(--resizer)*100);
+  flex-direction: row;
+  background-color: #17165d;
+  flex: 1;
+  border-radius: calc(11vw/var(--resizer)*100);
+  border-top: calc(3vw/var(--resizer)*100) ridge #fff5a3;
+  border-bottom: calc(3vw/var(--resizer)*100) ridge #fff5a3;
+  gap: calc(10vw/var(--resizer)*100);
+}
+
+.userpic-naiRPPvLjJPUAz {
+  display: flex;
+  position: relative;
+  justify-content: center;
+  align-items: center;
+  border-radius: calc(11vw/var(--resizer)*100);
+  margin: 10;
+}
+
+.narrow-xaLfgKOpVBSoXGg {
+  display: flex;
+  position: relative;
+  justify-content: center;
+  align-items: center;
+  max-width: max-content;
+  gap: calc(24vw/var(--resizer)*100);
+  flex-wrap: wrap;
+}
+
+.picture-vFFiAhBiI {
+  display: flex;
+  position: relative;
+  justify-content: center;
+  align-items: center;
+  width: calc(160vw/var(--resizer)*100);
+  height: calc(160vw/var(--resizer)*100);
+  border-radius: calc(11vw/var(--resizer)*100);
+  margin: calc(10vw/var(--resizer)*100) calc(10vw/var(--resizer)*100) calc(10vw/var(--resizer)*100) calc(10vw/var(--resizer)*100);
+  box-shadow: 0 1px 2px 0 rgba(60,64,67,.3),0 1px 3px 1px rgba(60,64,67,.15);
+}
+
+.medium-fFbDdoMN {
+  display: flex;
+  position: relative;
+  justify-content: center;
+  align-items: center;
+  width: calc(402vw/var(--resizer)*100);
+  gap: calc(10vw/var(--resizer)*100);
+  margin: 10;
+  flex-direction: column;
+}
+
+.active-GpGCtE {
+  display: flex;
+  position: relative;
+  justify-content: center;
+  align-items: center;
+  width: calc(402vw/var(--resizer)*100);
+  gap: calc(10vw/var(--resizer)*100);
+  border-radius: calc(22vw/var(--resizer)*100);
+  appURL: index.html;
+  height: calc(50vw/var(--resizer)*100);
+}
+
+.small-ednYjJsko {
+  display: flex;
+  position: relative;
+  justify-content: center;
+  align-items: center;
+  width: calc(221vw/var(--resizer)*100);
+  height: calc(45vw/var(--resizer)*100);
+  border-radius: calc(11vw/var(--resizer)*100);
+  background-color: #dbaa8a;
+  appURL: themelist4.html;
+}
+
+.all-zhkailVX {
+  font-weight: 900;
+  font-family: 'Brygada 1918', serif;
+  color: #17165d;
+  font-size: calc(17vw/var(--resizer)*100);
+}
+
+.all-tgXUmJCMsBNC {
+  display: flex;
+  position: relative;
+  justify-content: center;
+  align-items: center;
+  width: auto;
+  gap: calc(10vw/var(--resizer)*100);
+  padding: calc(17vw/var(--resizer)*100) calc(5vw/var(--resizer)*100) calc(17vw/var(--resizer)*100) calc(5vw/var(--resizer)*100);
+  flex-direction: column;
+}
+
+.content-paLJoGiJ {
+  font-family: 'Brygada 1918', serif;
+  font-size: calc(16vw/var(--resizer)*100);
+  font-weight: 400;
+  color: #fff5a3;
+  text-align: left;
+}
+
+.sm-LPazoSoG {
+  display: flex;
+  position: relative;
+  justify-content: center;
+  align-items: center;
+}
+
+.img-WILXOFhwOUpT {
+  font-family: 'Brygada 1918', serif;
+  font-size: calc(16vw/var(--resizer)*100);
+  font-weight: light;
+  color: #fff5a3;
+  font-style: normal;
+  line-height: calc(24vw/var(--resizer)*100);
+}
+
+.heading-yqDazfTkPnodobYT {
+  display: flex;
+  position: relative;
+  justify-content: nowrap;
+  align-items: center;
+  width: auto;
+  gap: calc(5vw/var(--resizer)*100);
+  flex-direction: column;
+  padding: calc(21vw/var(--resizer)*100);
+}
+
+.wide-xGeqJeVOA {
+  display: flex;
+  position: relative;
+  justify-content: center;
+  align-items: center;
+}
+
+.caption-KKhRsCpMoQSgRDou {
+  display: flex;
+  position: relative;
+  justify-content: center;
+  align-items: center;
+  width: max-content;
+  height: max-content;
+}
+
+.widget-QtRJCu {
+  color: #fff5a3;
+  font-size: calc(18vw/var(--resizer)*100);
+  font-style: bold;
+}
+
+.current-lgEymNKeeKaar {
+  display: flex;
+  position: relative;
+  justify-content: center;
+  align-items: center;
+}
+
+.icon-frXOoJJtgySHJwDw {
+  display: flex;
+  position: relative;
+  justify-content: center;
+  align-items: center;
+  width: max-content;
+  height: max-content;
+}
+
+.subject-UFxZDaw {
+  color: #fff5a3;
+  font-size: calc(18vw/var(--resizer)*100);
+  font-style: bold;
+}
+
+.tiny-mEwNJVvuAvZJiHTa {
+  display: flex;
+  position: relative;
+  justify-content: center;
+  align-items: center;
+  min-width: calc(663vw/var(--resizer)*100);
+  max-width: calc(663vw/var(--resizer)*100);
+  height: calc(437vw/var(--resizer)*100);
+  padding: calc(24vw/var(--resizer)*100) calc(24vw/var(--resizer)*100) calc(24vw/var(--resizer)*100) calc(24vw/var(--resizer)*100);
+  flex-direction: row;
+  background-color: #17165d;
+  flex: 1;
+  border-radius: calc(11vw/var(--resizer)*100);
+  border-top: calc(3vw/var(--resizer)*100) ridge #fff5a3;
+  border-bottom: calc(3vw/var(--resizer)*100) ridge #fff5a3;
+  gap: calc(10vw/var(--resizer)*100);
+}
+
+.text-STBDUAlajbWmy {
+  display: flex;
+  position: relative;
+  justify-content: center;
+  align-items: center;
+  border-radius: calc(11vw/var(--resizer)*100);
+  margin: 10;
+}
+
+.image-AsHKPTUM {
+  display: flex;
+  position: relative;
+  justify-content: center;
+  align-items: center;
+  max-width: max-content;
+  gap: calc(24vw/var(--resizer)*100);
+  flex-wrap: wrap;
+}
+
+.avatar-JYnqgwOVro {
+  display: flex;
+  position: relative;
+  justify-content: center;
+  align-items: center;
+  width: calc(160vw/var(--resizer)*100);
+  height: calc(160vw/var(--resizer)*100);
+  border-radius: calc(11vw/var(--resizer)*100);
+  margin: calc(10vw/var(--resizer)*100) calc(10vw/var(--resizer)*100) calc(10vw/var(--resizer)*100) calc(10vw/var(--resizer)*100);
+  box-shadow: 0 1px 2px 0 rgba(60,64,67,.3),0 1px 3px 1px rgba(60,64,67,.15);
+}
+
+.btn-LoMJHAKGGCXbABrk {
+  display: flex;
+  position: relative;
+  justify-content: center;
+  align-items: center;
+  width: calc(402vw/var(--resizer)*100);
+  gap: calc(10vw/var(--resizer)*100);
+  margin: 10;
+  flex-direction: column;
+}
+
+.thumb-gRyCHlVChvj {
+  display: flex;
+  position: relative;
+  justify-content: center;
+  align-items: center;
+  width: calc(402vw/var(--resizer)*100);
+  gap: calc(10vw/var(--resizer)*100);
+  border-radius: calc(9vw/var(--resizer)*100);
+  appURL: index.html;
+  height: calc(50vw/var(--resizer)*100);
+}
+
+.wrapper-eTALfGMejvrQAJ {
+  display: flex;
+  position: relative;
+  justify-content: center;
+  align-items: center;
+  width: calc(221vw/var(--resizer)*100);
+  height: calc(45vw/var(--resizer)*100);
+  border-radius: calc(11vw/var(--resizer)*100);
+  background-color: #dbaa8a;
+  appURL: themelist5.html;
+}
+
+.page-uIbLcIw {
+  font-weight: 900;
+  font-family: 'Brygada 1918', serif;
+  color: #17165d;
+  font-size: calc(17vw/var(--resizer)*100);
+}
+
+.content-YGGYxz {
+  display: flex;
+  position: relative;
+  justify-content: center;
+  align-items: center;
+  width: auto;
+  gap: calc(10vw/var(--resizer)*100);
+  padding: calc(17vw/var(--resizer)*100) calc(5vw/var(--resizer)*100) calc(17vw/var(--resizer)*100) calc(5vw/var(--resizer)*100);
+  flex-direction: column;
+}
+
+.thumbnail-KmsVsky {
+  font-family: 'Brygada 1918', serif;
+  font-size: calc(16vw/var(--resizer)*100);
+  font-weight: 400;
+  color: #fff5a3;
+  text-align: left;
+}
+
+.icon-KjkeBRG {
+  display: flex;
+  position: relative;
+  justify-content: center;
+  align-items: center;
+}
+
+.content-DEoqUaBJl {
+  font-family: 'Brygada 1918', serif;
+  font-size: calc(16vw/var(--resizer)*100);
+  font-weight: light;
+  color: #fff5a3;
+  font-style: normal;
+  line-height: calc(24vw/var(--resizer)*100);
+}
+
+.small-uGinSEv {
+  display: flex;
+  position: relative;
+  justify-content: nowrap;
+  align-items: center;
+  width: auto;
+  gap: calc(5vw/var(--resizer)*100);
+  flex-direction: column;
+  padding: calc(21vw/var(--resizer)*100);
+}
+
+.icon-BFTnJdRCAmXuQkb {
+  display: flex;
+  position: relative;
+  justify-content: center;
+  align-items: center;
+}
+
+.userpic-uEaDHg {
+  display: flex;
+  position: relative;
+  justify-content: center;
+  align-items: center;
+  width: max-content;
+  height: max-content;
+}
+
+.section-RORwCKYehpNzSQD {
+  color: #fff5a3;
+  font-size: calc(18vw/var(--resizer)*100);
+  font-style: bold;
+}
+
+.img-zfxbhsPcN {
+  display: flex;
+  position: relative;
+  justify-content: center;
+  align-items: center;
+}
+
+.aside-GoYGzexoKDJ {
+  display: flex;
+  position: relative;
+  justify-content: center;
+  align-items: center;
+  width: max-content;
+  height: max-content;
+}
+
+.picture-siJqTuHBLZEoSx {
+  color: #fff5a3;
+  font-size: calc(18vw/var(--resizer)*100);
+  font-style: bold;
+}
+
+.headline-ovklwJPE {
+  display: flex;
+  position: relative;
+  justify-content: center;
+  align-items: center;
+  min-width: calc(663vw/var(--resizer)*100);
+  max-width: calc(663vw/var(--resizer)*100);
+  height: calc(437vw/var(--resizer)*100);
+  padding: calc(24vw/var(--resizer)*100) calc(24vw/var(--resizer)*100) calc(24vw/var(--resizer)*100) calc(24vw/var(--resizer)*100);
+  flex-direction: row;
+  background-color: #17165d;
+  flex: 1;
+  border-radius: calc(11vw/var(--resizer)*100);
+  border-top: calc(3vw/var(--resizer)*100) ridge #fff5a3;
+  border-bottom: calc(3vw/var(--resizer)*100) ridge #fff5a3;
+  gap: calc(10vw/var(--resizer)*100);
+}
+
+.tooltip-bBSNfqukldq {
+  display: flex;
+  position: relative;
+  justify-content: center;
+  align-items: center;
+  border-radius: calc(11vw/var(--resizer)*100);
+  margin: 10;
+}
+
+.inner-JFkGjxg {
+  display: flex;
+  position: relative;
+  justify-content: center;
+  align-items: center;
+  max-width: max-content;
+  gap: calc(24vw/var(--resizer)*100);
+  flex-wrap: wrap;
+}
+
+.box-FCNQmmdHN {
+  display: flex;
+  position: relative;
+  justify-content: center;
+  align-items: center;
+  width: calc(160vw/var(--resizer)*100);
+  height: calc(160vw/var(--resizer)*100);
+  border-radius: calc(11vw/var(--resizer)*100);
+  margin: calc(10vw/var(--resizer)*100) calc(10vw/var(--resizer)*100) calc(10vw/var(--resizer)*100) calc(10vw/var(--resizer)*100);
+  box-shadow: 0 1px 2px 0 rgba(60,64,67,.3),0 1px 3px 1px rgba(60,64,67,.15);
+}
+
+.tip-PfTBSIKeFmvuk {
+  display: flex;
+  position: relative;
+  justify-content: center;
+  align-items: center;
+  width: calc(402vw/var(--resizer)*100);
+  gap: calc(10vw/var(--resizer)*100);
+  margin: 10;
+  flex-direction: column;
+}
+
+.userpic-IacjyH {
+  display: flex;
+  position: relative;
+  justify-content: center;
+  align-items: center;
+  width: calc(402vw/var(--resizer)*100);
+  gap: calc(10vw/var(--resizer)*100);
+  border-radius: calc(11vw/var(--resizer)*100);
+  appURL: index.html;
+  height: calc(50vw/var(--resizer)*100);
+}
+
+.tiny-oxauWv {
+  display: flex;
+  position: relative;
+  justify-content: center;
+  align-items: center;
+  width: calc(221vw/var(--resizer)*100);
+  height: calc(45vw/var(--resizer)*100);
+  border-radius: calc(11vw/var(--resizer)*100);
+  background-color: #dbaa8a;
+  appURL: themelist6.html;
+}
+
+.column-VcRbtHLUtuUFa {
+  font-weight: 900;
+  font-family: 'Brygada 1918', serif;
+  color: #17165d;
+  font-size: calc(17vw/var(--resizer)*100);
+}
+
+.container-SSEbyUDp {
+  display: flex;
+  position: relative;
+  justify-content: center;
+  align-items: center;
+  width: auto;
+  gap: calc(10vw/var(--resizer)*100);
+  padding: calc(17vw/var(--resizer)*100) calc(5vw/var(--resizer)*100) calc(17vw/var(--resizer)*100) calc(5vw/var(--resizer)*100);
+  flex-direction: column;
+}
+
+.all-NEhgdGL {
+  font-family: 'Brygada 1918', serif;
+  font-size: calc(16vw/var(--resizer)*100);
+  font-weight: 400;
+  color: #fff5a3;
+  text-align: left;
+}
+
+.img-OOUAeN {
+  display: flex;
+  position: relative;
+  justify-content: center;
+  align-items: center;
+}
+
+.tip-ZOviWpBjVeyU {
+  font-family: 'Brygada 1918', serif;
+  font-size: calc(16vw/var(--resizer)*100);
+  font-weight: light;
+  color: #fff5a3;
+  font-style: normal;
+  line-height: calc(24vw/var(--resizer)*100);
+}
+
+.button-tvaehRKGSTdkoJZ {
+  display: flex;
+  position: relative;
+  justify-content: nowrap;
+  align-items: center;
+  width: auto;
+  gap: calc(5vw/var(--resizer)*100);
+  flex-direction: column;
+  padding: calc(21vw/var(--resizer)*100);
+}
+
+.grid-TfZctxOLgjG {
+  display: flex;
+  position: relative;
+  justify-content: center;
+  align-items: center;
+}
+
+.tooltip-HvQhSPKtUWcZ {
+  display: flex;
+  position: relative;
+  justify-content: center;
+  align-items: center;
+  width: max-content;
+  height: max-content;
+}
+
+.current-gswhtiHzqVnYsig {
+  color: #fff5a3;
+  font-size: calc(18vw/var(--resizer)*100);
+  font-style: bold;
+}
+
+.headline-orJLbBB {
+  display: flex;
+  position: relative;
+  justify-content: center;
+  align-items: center;
+}
+
+.box-nfUCOEF {
+  display: flex;
+  position: relative;
+  justify-content: center;
+  align-items: center;
+  width: max-content;
+  height: max-content;
+}
+
+.sm-mNuoMJpLMMLwulCx {
+  color: #fff5a3;
+  font-size: calc(18vw/var(--resizer)*100);
+  font-style: bold;
+}
+
+.heading-CjvmjIAjuqZ {
+  display: flex;
+  position: relative;
+  justify-content: center;
+  align-items: center;
+  min-width: calc(663vw/var(--resizer)*100);
+  max-width: calc(663vw/var(--resizer)*100);
+  height: calc(437vw/var(--resizer)*100);
+  padding: calc(24vw/var(--resizer)*100) calc(24vw/var(--resizer)*100) calc(24vw/var(--resizer)*100) calc(24vw/var(--resizer)*100);
+  flex-direction: row;
+  background-color: #17165d;
+  flex: 1;
+  border-radius: calc(11vw/var(--resizer)*100);
+  border-top: calc(3vw/var(--resizer)*100) ridge #fff5a3;
+  border-bottom: calc(3vw/var(--resizer)*100) ridge #fff5a3;
+  gap: calc(10vw/var(--resizer)*100);
+}
+
+.col-MIbbIKx {
+  display: flex;
+  position: relative;
+  justify-content: center;
+  align-items: center;
+  border-radius: calc(11vw/var(--resizer)*100);
+  margin: 10;
+}
+
+.headline-SrqTOTNNZXYL {
+  display: flex;
+  position: relative;
+  justify-content: center;
+  align-items: center;
+  max-width: max-content;
+  gap: calc(24vw/var(--resizer)*100);
+  flex-wrap: wrap;
+}
+
+.current-YUVVKcnGqf {
+  display: flex;
+  position: relative;
+  justify-content: center;
+  align-items: center;
+  width: calc(160vw/var(--resizer)*100);
+  height: calc(160vw/var(--resizer)*100);
+  border-radius: calc(11vw/var(--resizer)*100);
+  margin: calc(10vw/var(--resizer)*100) calc(10vw/var(--resizer)*100) calc(10vw/var(--resizer)*100) calc(10vw/var(--resizer)*100);
+  box-shadow: 0 1px 2px 0 rgba(60,64,67,.3),0 1px 3px 1px rgba(60,64,67,.15);
+}
+
+.avatar-RbPwSeJIXiDWqJsA {
+  display: flex;
+  position: relative;
+  justify-content: center;
+  align-items: center;
+  width: calc(402vw/var(--resizer)*100);
+  gap: calc(10vw/var(--resizer)*100);
+  margin: 10;
+  flex-direction: column;
+}
+
+.picture-PWBIPGrkVBRl {
+  display: flex;
+  position: relative;
+  justify-content: center;
+  align-items: center;
+  width: calc(402vw/var(--resizer)*100);
+  gap: calc(10vw/var(--resizer)*100);
+  border-radius: calc(37vw/var(--resizer)*100);
+  appURL: index.html;
+  height: calc(50vw/var(--resizer)*100);
+}
+
+.breadcrumbs-gisRlhilAiu {
+  display: flex;
+  position: relative;
+  justify-content: center;
+  align-items: center;
+  width: calc(221vw/var(--resizer)*100);
+  height: calc(45vw/var(--resizer)*100);
+  border-radius: calc(11vw/var(--resizer)*100);
+  background-color: #dbaa8a;
+  appURL: themelist7.html;
+}
+
+.img-owgAHXvWRfQOe {
+  font-weight: 900;
+  font-family: 'Brygada 1918', serif;
+  color: #17165d;
+  font-size: calc(17vw/var(--resizer)*100);
+}
+
+.sidebar-JnDwOUdueEa {
+  display: flex;
+  position: relative;
+  justify-content: center;
+  align-items: center;
+  width: auto;
+  gap: calc(10vw/var(--resizer)*100);
+  padding: calc(17vw/var(--resizer)*100) calc(5vw/var(--resizer)*100) calc(17vw/var(--resizer)*100) calc(5vw/var(--resizer)*100);
+  flex-direction: column;
+}
+
+.big-sYdLxYRxXz {
+  font-family: 'Brygada 1918', serif;
+  font-size: calc(16vw/var(--resizer)*100);
+  font-weight: 400;
+  color: #fff5a3;
+  text-align: left;
+}
+
+.caption-ddTAVQhGyxRWs {
+  display: flex;
+  position: relative;
+  justify-content: center;
+  align-items: center;
+}
+
+.wrapper-YoHHHtAwqR {
+  font-family: 'Brygada 1918', serif;
+  font-size: calc(16vw/var(--resizer)*100);
+  font-weight: light;
+  color: #fff5a3;
+  font-style: normal;
+  line-height: calc(24vw/var(--resizer)*100);
+}
+
+.text-bqfTuMtQbYSttmS {
+  display: flex;
+  position: relative;
+  justify-content: nowrap;
+  align-items: center;
+  width: auto;
+  gap: calc(5vw/var(--resizer)*100);
+  flex-direction: column;
+  padding: calc(21vw/var(--resizer)*100);
+}
+
+.container-LdJOJlBMsJXZmle {
+  display: flex;
+  position: relative;
+  justify-content: center;
+  align-items: center;
+}
+
+.tooltip-KAnvMJp {
+  display: flex;
+  position: relative;
+  justify-content: center;
+  align-items: center;
+  width: max-content;
+  height: max-content;
+}
+
+.sm-wlVlkNtwiR {
+  color: #fff5a3;
+  font-size: calc(18vw/var(--resizer)*100);
+  font-style: bold;
+}
+
+.large-KJACCBkXsHUzEpK {
+  display: flex;
+  position: relative;
+  justify-content: center;
+  align-items: center;
+}
+
+.sidebar-YslUvapY {
+  display: flex;
+  position: relative;
+  justify-content: center;
+  align-items: center;
+  width: max-content;
+  height: max-content;
+}
+
+.wrapper-LdPqvw {
+  color: #fff5a3;
+  font-size: calc(18vw/var(--resizer)*100);
+  font-style: bold;
+}
+
+.caption-iyzyeZRzSunfe {
+  display: flex;
+  position: relative;
+  justify-content: center;
+  align-items: center;
+  min-width: calc(663vw/var(--resizer)*100);
+  max-width: calc(663vw/var(--resizer)*100);
+  height: calc(437vw/var(--resizer)*100);
+  padding: calc(24vw/var(--resizer)*100) calc(24vw/var(--resizer)*100) calc(24vw/var(--resizer)*100) calc(24vw/var(--resizer)*100);
+  flex-direction: row;
+  background-color: #17165d;
+  flex: 1;
+  border-radius: calc(11vw/var(--resizer)*100);
+  border-top: calc(3vw/var(--resizer)*100) ridge #fff5a3;
+  border-bottom: calc(3vw/var(--resizer)*100) ridge #fff5a3;
+  gap: calc(10vw/var(--resizer)*100);
+}
+
+.control-SKIUCoYzl {
+  display: flex;
+  position: relative;
+  justify-content: center;
+  align-items: center;
+  border-radius: calc(11vw/var(--resizer)*100);
+  margin: 10;
+}
+
+.thumbnail-CTNxCF {
+  display: flex;
+  position: relative;
+  justify-content: center;
+  align-items: center;
+  max-width: max-content;
+  gap: calc(24vw/var(--resizer)*100);
+  flex-wrap: wrap;
+}
+
+.content-sjyBXfdcSpfZSxJ {
+  display: flex;
+  position: relative;
+  justify-content: center;
+  align-items: center;
+  width: calc(160vw/var(--resizer)*100);
+  height: calc(160vw/var(--resizer)*100);
+  border-radius: calc(11vw/var(--resizer)*100);
+  margin: calc(10vw/var(--resizer)*100) calc(10vw/var(--resizer)*100) calc(10vw/var(--resizer)*100) calc(10vw/var(--resizer)*100);
+  box-shadow: 0 1px 2px 0 rgba(60,64,67,.3),0 1px 3px 1px rgba(60,64,67,.15);
+}
+
+.aside-UonzDbym {
+  display: flex;
+  position: relative;
+  justify-content: center;
+  align-items: center;
+  width: calc(402vw/var(--resizer)*100);
+  gap: calc(10vw/var(--resizer)*100);
+  margin: 10;
+  flex-direction: column;
+}
+
+.subject-urxlyYHdlnt {
+  display: flex;
+  position: relative;
+  justify-content: center;
+  align-items: center;
+  width: calc(402vw/var(--resizer)*100);
+  gap: calc(10vw/var(--resizer)*100);
+  border-radius: calc(21vw/var(--resizer)*100);
+  appURL: index.html;
+  height: calc(50vw/var(--resizer)*100);
+}
+
+.avatar-BKOhDGv {
+  display: flex;
+  position: relative;
+  justify-content: center;
+  align-items: center;
+  width: calc(221vw/var(--resizer)*100);
+  height: calc(45vw/var(--resizer)*100);
+  border-radius: calc(11vw/var(--resizer)*100);
+  background-color: #dbaa8a;
+  appURL: themelist8.html;
+}
+
+.thumbnail-qLNacwlJjB {
+  font-weight: 900;
+  font-family: 'Brygada 1918', serif;
+  color: #17165d;
+  font-size: calc(17vw/var(--resizer)*100);
+}
+
+.img-bYyAlPdvgVlSg {
+  display: flex;
+  position: relative;
+  justify-content: center;
+  align-items: center;
+  width: auto;
+  gap: calc(10vw/var(--resizer)*100);
+  padding: calc(17vw/var(--resizer)*100) calc(5vw/var(--resizer)*100) calc(17vw/var(--resizer)*100) calc(5vw/var(--resizer)*100);
+  flex-direction: column;
+}
+
+.desc-MREJZfDd {
+  font-family: 'Brygada 1918', serif;
+  font-size: calc(16vw/var(--resizer)*100);
+  font-weight: 400;
+  color: #fff5a3;
+  text-align: left;
+}
+
+.huge-zLlsrF {
+  display: flex;
+  position: relative;
+  justify-content: center;
+  align-items: center;
+}
+
+.xl-CwqRGxrldR {
+  font-family: 'Brygada 1918', serif;
+  font-size: calc(16vw/var(--resizer)*100);
+  font-weight: light;
+  color: #fff5a3;
+  font-style: normal;
+  line-height: calc(24vw/var(--resizer)*100);
+}
+
+.img-iTBsegjXAWSHaPaj {
+  display: flex;
+  position: relative;
+  justify-content: nowrap;
+  align-items: center;
+  width: auto;
+  gap: calc(5vw/var(--resizer)*100);
+  flex-direction: column;
+  padding: calc(21vw/var(--resizer)*100);
+}
+
+.caption-qkpuEsQUukKJKVY {
+  display: flex;
+  position: relative;
+  justify-content: center;
+  align-items: center;
+}
+
+.control-baafSrtc {
+  display: flex;
+  position: relative;
+  justify-content: center;
+  align-items: center;
+  width: max-content;
+  height: max-content;
+}
+
+.img-OgQNzVEMFaZ {
+  color: #fff5a3;
+  font-size: calc(18vw/var(--resizer)*100);
+  font-style: bold;
+}
+
+.button-EKqfwmGTylohg {
+  display: flex;
+  position: relative;
+  justify-content: center;
+  align-items: center;
+}
+
+.headline-tgiczfbGtRSOs {
+  display: flex;
+  position: relative;
+  justify-content: center;
+  align-items: center;
+  width: max-content;
+  height: max-content;
+}
+
+.medium-XMAgjTb {
+  color: #fff5a3;
+  font-size: calc(18vw/var(--resizer)*100);
+  font-style: bold;
+}
+
+.text-SxRxae {
+  display: flex;
+  position: relative;
+  justify-content: center;
+  align-items: center;
+  min-width: calc(663vw/var(--resizer)*100);
+  max-width: calc(663vw/var(--resizer)*100);
+  height: calc(437vw/var(--resizer)*100);
+  padding: calc(24vw/var(--resizer)*100) calc(24vw/var(--resizer)*100) calc(24vw/var(--resizer)*100) calc(24vw/var(--resizer)*100);
+  flex-direction: row;
+  background-color: #17165d;
+  flex: 1;
+  border-radius: calc(11vw/var(--resizer)*100);
+  border-top: calc(3vw/var(--resizer)*100) ridge #fff5a3;
+  border-bottom: calc(3vw/var(--resizer)*100) ridge #fff5a3;
+  gap: calc(10vw/var(--resizer)*100);
+}
+
+.col-hqYBEQGHeWoBPf {
+  display: flex;
+  position: relative;
+  justify-content: center;
+  align-items: center;
+  border-radius: calc(11vw/var(--resizer)*100);
+  margin: 10;
+}
+
+.avatar-LkSSHxCnmiZyeNVB {
+  display: flex;
+  position: relative;
+  justify-content: center;
+  align-items: center;
+  max-width: max-content;
+  gap: calc(24vw/var(--resizer)*100);
+  flex-wrap: wrap;
+}
+
+.aside-cYycnDoLO {
+  display: flex;
+  position: relative;
+  justify-content: center;
+  align-items: center;
+  width: calc(160vw/var(--resizer)*100);
+  height: calc(160vw/var(--resizer)*100);
+  border-radius: calc(11vw/var(--resizer)*100);
+  margin: calc(10vw/var(--resizer)*100) calc(10vw/var(--resizer)*100) calc(10vw/var(--resizer)*100) calc(10vw/var(--resizer)*100);
+  box-shadow: 0 1px 2px 0 rgba(60,64,67,.3),0 1px 3px 1px rgba(60,64,67,.15);
+}
+
+.small-duqIRvx {
+  display: flex;
+  position: relative;
+  justify-content: center;
+  align-items: center;
+  width: calc(402vw/var(--resizer)*100);
+  gap: calc(10vw/var(--resizer)*100);
+  margin: 10;
+  flex-direction: column;
+}
+
+.medium-OdVbbjYHMCl {
+  display: flex;
+  position: relative;
+  justify-content: center;
+  align-items: center;
+  width: calc(402vw/var(--resizer)*100);
+  gap: calc(10vw/var(--resizer)*100);
+  border-radius: calc(41vw/var(--resizer)*100);
+  appURL: index.html;
+  height: calc(50vw/var(--resizer)*100);
+}
+
+.thumbnail-eRILHzPiqk {
+  display: flex;
+  position: relative;
+  justify-content: center;
+  align-items: center;
+  width: calc(221vw/var(--resizer)*100);
+  height: calc(45vw/var(--resizer)*100);
+  border-radius: calc(11vw/var(--resizer)*100);
+  background-color: #dbaa8a;
+  appURL: themelist9.html;
+}
+
+.userpic-qCNzvkpMj {
+  font-weight: 900;
+  font-family: 'Brygada 1918', serif;
+  color: #17165d;
+  font-size: calc(17vw/var(--resizer)*100);
+}
+
+.lg-fUMCEkGCH {
+  display: flex;
+  position: relative;
+  justify-content: center;
+  align-items: center;
+  width: auto;
+  gap: calc(10vw/var(--resizer)*100);
+  padding: calc(17vw/var(--resizer)*100) calc(5vw/var(--resizer)*100) calc(17vw/var(--resizer)*100) calc(5vw/var(--resizer)*100);
+  flex-direction: column;
+}
+
+.control-GSyKqzWTI {
+  font-family: 'Brygada 1918', serif;
+  font-size: calc(16vw/var(--resizer)*100);
+  font-weight: 400;
+  color: #fff5a3;
+  text-align: left;
+}
+
+.md-rDoDvTKIC {
+  display: flex;
+  position: relative;
+  justify-content: center;
+  align-items: center;
+}
+
+.col-hRvdAHERws {
+  font-family: 'Brygada 1918', serif;
+  font-size: calc(16vw/var(--resizer)*100);
+  font-weight: light;
+  color: #fff5a3;
+  font-style: normal;
+  line-height: calc(24vw/var(--resizer)*100);
+}
+
+.icon-LGqSLhtnoib {
+  display: flex;
+  position: relative;
+  justify-content: nowrap;
+  align-items: center;
+  width: auto;
+  gap: calc(5vw/var(--resizer)*100);
+  flex-direction: column;
+  padding: calc(21vw/var(--resizer)*100);
+}
+
+.sm-CmVcJJq {
+  display: flex;
+  position: relative;
+  justify-content: center;
+  align-items: center;
+}
+
+.active-BVvCxlncJU {
+  display: flex;
+  position: relative;
+  justify-content: center;
+  align-items: center;
+  width: max-content;
+  height: max-content;
+}
+
+.section-EexTnMQzpg {
+  color: #fff5a3;
+  font-size: calc(18vw/var(--resizer)*100);
+  font-style: bold;
+}
+
+.tip-vfjonhbDRBFegD {
+  display: flex;
+  position: relative;
+  justify-content: center;
+  align-items: center;
+}
+
+.sidebar-qLWCwkhOwl {
+  display: flex;
+  position: relative;
+  justify-content: center;
+  align-items: center;
+  width: max-content;
+  height: max-content;
+}
+
+.pic-kHfSoNDZmrsgWx {
+  color: #fff5a3;
+  font-size: calc(18vw/var(--resizer)*100);
+  font-style: bold;
+}
+
+.content-YVOzTSmoBz {
+  display: flex;
+  position: relative;
+  justify-content: center;
+  align-items: center;
+  width: 80%;
+  padding: calc(50vw/var(--resizer)*100) 10% calc(0vw/var(--resizer)*100) 10%;
+  background-color: #470099;
+  flex-direction: column;
+}
+
+.pic-fLwzqHK {
+  display: flex;
+  position: relative;
+  justify-content: space-between;
+  align-items: center;
+  width: 100%;
+  margin: auto auto auto auto;
+  padding: calc(50vw/var(--resizer)*100) calc(0vw/var(--resizer)*100) calc(50vw/var(--resizer)*100) calc(0vw/var(--resizer)*100);
+  border-top: calc(1vw/var(--resizer)*100) solid rgb(241,243,244);
+}
+
+.thumb-lSxDyRt {
+  font-family: 'Brygada 1918', serif;
+  font-size: calc(16vw/var(--resizer)*100);
+  font-weight: 400;
+  color: #fff5a3;
+  text-decoration: none;
+  text-align: undefined;
+}
+
+.subtitle-jwNIkKEGHyLF {
+  font-family: 'Brygada 1918', serif;
+  font-size: calc(16vw/var(--resizer)*100);
+  font-weight: 400;
+  color: #fff5a3;
+  text-decoration: none;
+  text-align: undefined;
+}
+
+.preview-QrnhVfgFs {
+  font-family: 'Brygada 1918', serif;
+  font-size: calc(16vw/var(--resizer)*100);
+  font-weight: 400;
+  color: #fff5a3;
+  text-decoration: none;
+  text-align: undefined;
+}
+
+.current-VkmWhPUbVkF {
+  display: none;
+}
+
+.text-ZSvSNHpwo {
+  display: flex;
+  position: fixed;
+  width: 39%;
+  bottom: 0;
+  right: 0;
+  left: 0;
+  gap: calc(44vw/var(--resizer)*100);
+  flex-wrap: wrap;
+  padding: calc(18vw/var(--resizer)*100) calc(18vw/var(--resizer)*100) calc(18vw/var(--resizer)*100) calc(18vw/var(--resizer)*100);
+  flex-direction: row;
+  background-color: #470099;
+  border: calc(1vw/var(--resizer)*100) ridge #fff5a3;
+  justify-content: center;
+  align-items: center;
+  opacity: .94;
+  border-radius: calc(21vw/var(--resizer)*100);
+}
+
+.avatar-xDItmINf {
+  display: flex;
+  position: relative;
+  justify-content: center;
+  align-items: center;
+  gap: calc(10vw/var(--resizer)*100);
+}
+
+.large-nIzHRZXcDQ {
+  display: flex;
+  position: relative;
+  justify-content: center;
+  align-items: center;
+  gap: calc(10vw/var(--resizer)*100);
+  border-radius: calc(43vw/var(--resizer)*100);
+}
+
+.wide-KruHiPcfWtenuqHf {
+  width: auto;
+  height: auto;
+  border-radius: calc(15vw/var(--resizer)*100);
+  background-color: #dbaa8a;
+  padding: calc(5vw/var(--resizer)*100) calc(10vw/var(--resizer)*100) calc(5vw/var(--resizer)*100) calc(10vw/var(--resizer)*100);
+}
+
+.small-lFWFrLdQXQiPfYA {
+  font-weight: 900;
+  font-family: 'Brygada 1918', serif;
+  color: #17165d;
+  font-size: calc(18vw/var(--resizer)*100);
+}
+
+.xl-lmjdgvJpozdCfrQ {
+  display: flex;
+  position: relative;
+  justify-content: center;
+  align-items: center;
+  gap: calc(10vw/var(--resizer)*100);
+  border-radius: calc(14vw/var(--resizer)*100);
+}
+
+.large-QjqjqSyABSDRVk {
+  width: auto;
+  height: auto;
+  border-radius: calc(15vw/var(--resizer)*100);
+  background-color: #dbaa8a;
+  padding: calc(5vw/var(--resizer)*100) calc(10vw/var(--resizer)*100) calc(5vw/var(--resizer)*100) calc(10vw/var(--resizer)*100);
+}
+
+.subtitle-GzHrDtlda {
+  font-weight: 900;
+  font-family: 'Brygada 1918', serif;
+  color: #17165d;
+  font-size: calc(18vw/var(--resizer)*100);
+}
+
+.subject-dWlUoV {
+  display: flex;
+  position: relative;
+  justify-content: center;
+  align-items: center;
+}
+
+.button-kFRlrnDdwGGQ {
+  font-family: 'Brygada 1918', serif;
+  font-size: calc(18vw/var(--resizer)*100);
+  font-weight: 400;
+  color: #fff5a3;
+  width: 100%;
+  text-align: left;
+}
+
+
+.avatar-AkToBctiHrknX {
+  display: flex;
+  position: relative;
+  max-width: 100%;
+  margin: 0 auto;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+}
+
+.headline-OiGBZXzlgbWZ {
+  display: flex;
+  position: relative;
+  justify-content: center;
+  align-items: center;
+  width: 80%;
+  height: max-content;
+  padding: calc(50vw/var(--resizer)*100) 10% calc(50vw/var(--resizer)*100) 10%;
+  margin: auto auto auto auto;
+  background-color: #470099;
+  flex-direction: column;
+}
+
+.column-kQcRLqsWHN {
+  font-family: 'Brygada 1918', serif;
+  font-size: calc(16vw/var(--resizer)*100);
+  font-weight: 400;
+  color: #fff5a3;
+  text-align: left;
+  line-height: calc(40vw/var(--resizer)*100);
+}
+
+
+.grid-dsLOLUTSyBTE {
+  display: flex;
+  position: relative;
+  max-width: 100%;
+  margin: 0 auto;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+}
+
+.control-tzjfPbTSCci {
+  display: flex;
+  position: relative;
+  justify-content: center;
+  align-items: center;
+  width: 80%;
+  height: max-content;
+  padding: calc(50vw/var(--resizer)*100) 10% calc(50vw/var(--resizer)*100) 10%;
+  margin: auto auto auto auto;
+  background-color: #470099;
+  flex-direction: column;
+}
+
+.xl-zGympafqeD {
+  font-family: 'Brygada 1918', serif;
+  font-size: calc(16vw/var(--resizer)*100);
+  font-weight: 400;
+  color: #fff5a3;
+  text-align: left;
+  line-height: calc(40vw/var(--resizer)*100);
+}
+
+
+.active-yzcsZG {
+  display: flex;
+  position: relative;
+  max-width: 100%;
+  margin: 0 auto;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+}
+
+.subtitle-aOQCYWWuAjj {
+  display: flex;
+  position: relative;
+  justify-content: center;
+  align-items: center;
+  width: 80%;
+  height: max-content;
+  padding: calc(50vw/var(--resizer)*100) 10% calc(50vw/var(--resizer)*100) 10%;
+  margin: auto auto auto auto;
+  background-color: #470099;
+  flex-direction: column;
+}
+
+.tagline-PtGClwkXMY {
+  font-family: 'Brygada 1918', serif;
+  font-size: calc(16vw/var(--resizer)*100);
+  font-weight: 400;
+  color: #fff5a3;
+  text-align: left;
+  line-height: calc(40vw/var(--resizer)*100);
+}
+
+
+.tip-KAKOwVZHXf {
+  display: flex;
+  position: relative;
+  max-width: 100%;
+  margin: 0 auto;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+}
+
+.avatar-YYTSAenoCtB {
+  display: flex;
+  position: relative;
+  width: 100%;
+  margin: 0 auto;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+}
+
+.thumb-lWeNbEmuxIj {
+  display: flex;
+  position: relative;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+  gap: calc(35vw/var(--resizer)*100);
+}
+
+.large-SWDQqYOZyUiV {
+  display: flex;
+  position: relative;
+  justify-content: center;
+  align-items: center;
+  gap: calc(10vw/var(--resizer)*100);
+  border-radius: calc(49vw/var(--resizer)*100);
+  appURL: index.html;
+  width: 100%;
+  height: calc(50vw/var(--resizer)*100);
+}
+
+.title-ETWrNOw {
+  display: flex;
+  position: relative;
+  justify-content: center;
+  align-items: center;
+  width: 35%;
+  height: calc(35vw/var(--resizer)*100);
+  border-radius: calc(0vw/var(--resizer)*100);
+  background-color: #dbaa8a;
+  appURL: index.html;
+  padding: calc(5vw/var(--resizer)*100) calc(5vw/var(--resizer)*100) calc(5vw/var(--resizer)*100) calc(5vw/var(--resizer)*100);
+  gap: calc(31vw/var(--resizer)*100);
+}
+
+.caption-yLaTCx {
+  font-weight: 900;
+  font-family: 'Brygada 1918', serif;
+  color: #17165d;
+  font-size: calc(16vw/var(--resizer)*100);
+}
+
+.row-RqPeDkxyXFAenB {
+  display: flex;
+  position: relative;
+  justify-content: center;
+  align-items: center;
+  max-width: calc(650vw/var(--resizer)*100);
+  gap: calc(15vw/var(--resizer)*100);
+  margin: auto auto auto auto;
+  flex-direction: column;
+  text-align: center;
+}
+
+.breadcrumbs-hhJpMLAJPKUtPV {
+  font-family: 'Brygada 1918', serif;
+  font-size: calc(46vw/var(--resizer)*100);
+  font-weight: 900;
+  color: #fff5a3;
+}
+
+.narrow-DThOEgWNpwoqUE {
+  font-family: 'Brygada 1918', serif;
+  font-size: calc(16vw/var(--resizer)*100);
+  font-weight: 400;
+  color: #fff5a3;
+  line-height: calc(24vw/var(--resizer)*100);
+}
+
+.xl-HzAqsuGhrDRZx {
+  display: flex;
+  position: relative;
+  justify-content: center;
+  align-items: center;
+  width: 80%;
+  flex-direction: column;
+  gap: calc(46vw/var(--resizer)*100);
+  padding: calc(50vw/var(--resizer)*100) 10% calc(50vw/var(--resizer)*100) 10%;
+  background-color: #470099;
+}
+
+.userpic-tYOujHWyTeXhg {
+  display: flex;
+  position: relative;
+  justify-content: center;
+  align-items: center;
+  width: 92%;
+  padding: calc(50vw/var(--resizer)*100) calc(50vw/var(--resizer)*100) calc(50vw/var(--resizer)*100) calc(50vw/var(--resizer)*100);
+  gap: calc(26vw/var(--resizer)*100);
+  border-radius: calc(29vw/var(--resizer)*100);
+  border-top: calc(3vw/var(--resizer)*100) double #fff5a3;
+  flex-wrap: wrap;
+}
+
+.md-qpFRWOYobUD {
+  font-family: 'Brygada 1918', serif;
+  font-size: calc(23vw/var(--resizer)*100);
+  font-weight: 400;
+  color: #fff5a3;
+  text-align: left;
+}
+
+.pic-DmOcjWciOHmASBZB {
+  display: flex;
+  position: relative;
+  justify-content: wrap;
+  align-items: center;
+  width: auto;
+  gap: calc(5vw/var(--resizer)*100);
+  flex-direction: column;
+}
+
+.heading-rmnqPjdBYcl {
+  display: flex;
+  position: relative;
+  justify-content: center;
+  align-items: center;
+}
+
+.thumbnail-qUgTfYm {
+  display: flex;
+  position: relative;
+  justify-content: center;
+  align-items: center;
+  width: max-content;
+  height: max-content;
+}
+
+.preview-NgLWyGI {
+  color: #fff5a3;
+  font-size: calc(18vw/var(--resizer)*100);
+  font-style: bold;
+}
+
+.xs-KBqHVjLlPur {
+  display: flex;
+  position: relative;
+  justify-content: center;
+  align-items: center;
+}
+
+.text-gVWQJERg {
+  display: flex;
+  position: relative;
+  justify-content: center;
+  align-items: center;
+  width: max-content;
+  height: max-content;
+}
+
+.box-xTjQgJQ {
+  color: #fff5a3;
+  font-size: calc(18vw/var(--resizer)*100);
+  font-style: bold;
+}
+
+.image-zeOEXBGSmwljJiU {
+  display: flex;
+  position: relative;
+  justify-content: center;
+  align-items: center;
+  width: 80%;
+  padding: calc(50vw/var(--resizer)*100) 10% calc(50vw/var(--resizer)*100) 10%;
+  gap: calc(37vw/var(--resizer)*100);
+  flex-direction: column;
+  background-color: #470099;
+}
+
+.tip-neWdnlayzhCMw {
+  display: flex;
+  position: relative;
+  justify-content: center;
+  align-items: center;
+}
+
+.btn-YXxyDGYpE {
+  display: flex;
+  position: relative;
+  justify-content: center;
+  align-items: center;
+  max-width: calc(650vw/var(--resizer)*100);
+  gap: calc(15vw/var(--resizer)*100);
+  margin: auto auto auto auto;
+  flex-direction: column;
+  text-align: center;
+}
+
+.big-iJOhJrcIQx {
+  font-family: 'Brygada 1918', serif;
+  font-size: calc(46vw/var(--resizer)*100);
+  font-weight: 900;
+  color: #fff5a3;
+}
+
+.text-UnlxXNbdJMkTs {
+  display: flex;
+  position: relative;
+  justify-content: center;
+  align-items: center;
+  gap: calc(44vw/var(--resizer)*100);
+  flex-direction: row;
+}
+
+.current-OsuoZwBWys {
+  display: flex;
+  position: relative;
+  margin: auto;
+  border: none;
+  justify-content: center;
+  align-items: center;
+  box-sizing: border-box;
+  width: calc(250vw/var(--resizer)*100);
+  height: calc(50vw/var(--resizer)*100);
+  padding: calc(0vw/var(--resizer)*100) calc(10vw/var(--resizer)*100) calc(0vw/var(--resizer)*100) calc(10vw/var(--resizer)*100);
+  color: #fff5a3;
+  background-color: #470099;
+  font-size: calc(16vw/var(--resizer)*100);
+  text-align: undefined;
+  border-radius: calc(40vw/var(--resizer)*100);
+}
+
+.aside-tNoBYqzDWhwUZv {
+  display: flex;
+  position: relative;
+  margin: auto;
+  border: none;
+  justify-content: center;
+  align-items: center;
+  box-sizing: border-box;
+  width: calc(250vw/var(--resizer)*100);
+  height: calc(50vw/var(--resizer)*100);
+  padding: calc(0vw/var(--resizer)*100) calc(10vw/var(--resizer)*100) calc(0vw/var(--resizer)*100) calc(10vw/var(--resizer)*100);
+  color: #17165d;
+  background-color: #dbaa8a;
+  font-size: calc(16vw/var(--resizer)*100);
+  border-radius: calc(40vw/var(--resizer)*100);
+}
+
+.picture-NdrbktxaMw {
+  display: flex;
+  position: relative;
+  justify-content: center;
+  align-items: center;
+  width: 80%;
+  padding: calc(50vw/var(--resizer)*100) 10% calc(0vw/var(--resizer)*100) 10%;
+  background-color: #470099;
+  flex-direction: column;
+}
+
+.active-fKIcKbK {
+  display: flex;
+  position: relative;
+  justify-content: space-between;
+  align-items: center;
+  width: 100%;
+  margin: auto auto auto auto;
+  padding: calc(50vw/var(--resizer)*100) calc(0vw/var(--resizer)*100) calc(50vw/var(--resizer)*100) calc(0vw/var(--resizer)*100);
+  border-top: calc(1vw/var(--resizer)*100) solid rgb(241,243,244);
+}
+
+.text-eaffOul {
+  font-family: 'Brygada 1918', serif;
+  font-size: calc(16vw/var(--resizer)*100);
+  font-weight: 400;
+  color: #fff5a3;
+  text-decoration: none;
+  text-align: undefined;
+}
+
+.inner-vUiKYtyVLdeCxBJc {
+  font-family: 'Brygada 1918', serif;
+  font-size: calc(16vw/var(--resizer)*100);
+  font-weight: 400;
+  color: #fff5a3;
+  text-decoration: none;
+  text-align: undefined;
+}
+
+.big-XNfaEKhYbKAKdK {
+  font-family: 'Brygada 1918', serif;
+  font-size: calc(16vw/var(--resizer)*100);
+  font-weight: 400;
+  color: #fff5a3;
+  text-decoration: none;
+  text-align: undefined;
+}
+
+.md-ZOJhgrzjFwcfUQE {
+  display: none;
+}
+
+
+.icon-AmKDpZ {
+  display: flex;
+  position: relative;
+  max-width: 100%;
+  margin: 0 auto;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+}
+
+.thumb-VtUtsJUqmmtgKhT {
+  display: flex;
+  position: relative;
+  width: 100%;
+  margin: 0 auto;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+}
+
+.text-UYzdbircyvkofG {
+  display: flex;
+  position: relative;
+  justify-content: center;
+  align-items: center;
+  width: 80%;
+  height: max-content;
+  margin: calc(0vw/var(--resizer)*100) auto calc(0vw/var(--resizer)*100) auto;
+  padding: calc(50vw/var(--resizer)*100) 10% calc(50vw/var(--resizer)*100) 10%;
+  gap: undefined;
+  flex-direction: column;
+  background: inherit;
+  background-color: #470099;
+}
+
+.thumb-hiEiHEJzkNw {
+  display: flex;
+  position: relative;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+  gap: calc(36vw/var(--resizer)*100);
+}
+
+.large-qgZzHuDKahqfu {
+  display: flex;
+  position: relative;
+  justify-content: center;
+  align-items: center;
+  gap: calc(10vw/var(--resizer)*100);
+  border-radius: calc(15vw/var(--resizer)*100);
+  appURL: index.html;
+  width: 100%;
+  height: calc(50vw/var(--resizer)*100);
+}
+
+.page-pvMxgteZxnUekur {
+  display: flex;
+  position: relative;
+  justify-content: center;
+  align-items: center;
+  width: 35%;
+  height: calc(35vw/var(--resizer)*100);
+  border-radius: calc(45vw/var(--resizer)*100);
+  background-color: #dbaa8a;
+  appURL: index.html;
+  padding: calc(5vw/var(--resizer)*100) calc(5vw/var(--resizer)*100) calc(5vw/var(--resizer)*100) calc(5vw/var(--resizer)*100);
+  gap: calc(41vw/var(--resizer)*100);
+}
+
+.img-CUeBuStnrnQ {
+  font-weight: 900;
+  font-family: 'Brygada 1918', serif;
+  color: #17165d;
+  font-size: calc(16vw/var(--resizer)*100);
+}
+
+.current-jbnARW {
+  display: flex;
+  position: relative;
+  justify-content: center;
+  align-items: center;
+  max-width: calc(650vw/var(--resizer)*100);
+  gap: calc(15vw/var(--resizer)*100);
+  margin: auto auto auto auto;
+  flex-direction: column;
+  text-align: center;
+}
+
+.narrow-wLBEpskDyRLiaWd {
+  font-family: 'Brygada 1918', serif;
+  font-size: calc(46vw/var(--resizer)*100);
+  font-weight: 900;
+  color: #fff5a3;
+}
+
+.xl-zNHeKgxaknN {
+  font-family: 'Brygada 1918', serif;
+  font-size: calc(16vw/var(--resizer)*100);
+  font-weight: 400;
+  color: #fff5a3;
+  line-height: calc(24vw/var(--resizer)*100);
+}
+
+.huge-TplAIzDwkAhvkMJ {
+  display: flex;
+  position: relative;
+  justify-content: center;
+  align-items: center;
+  width: 92%;
+  padding: calc(50vw/var(--resizer)*100) calc(50vw/var(--resizer)*100) calc(50vw/var(--resizer)*100) calc(50vw/var(--resizer)*100);
+  gap: calc(26vw/var(--resizer)*100);
+  border-radius: calc(29vw/var(--resizer)*100);
+  border-top: calc(3vw/var(--resizer)*100) double #fff5a3;
+  flex-wrap: wrap;
+}
+
+.subtitle-mdzMlzCddPKzp {
+  font-family: 'Brygada 1918', serif;
+  font-size: calc(23vw/var(--resizer)*100);
+  font-weight: 400;
+  color: #fff5a3;
+  text-align: left;
+}
+
+.button-RJlkBBwINTT {
+  display: flex;
+  position: relative;
+  justify-content: wrap;
+  align-items: center;
+  width: auto;
+  gap: calc(5vw/var(--resizer)*100);
+  flex-direction: column;
+}
+
+.tagline-XlbADHm {
+  display: flex;
+  position: relative;
+  justify-content: center;
+  align-items: center;
+}
+
+.image-KSPmjPSLf {
+  display: flex;
+  position: relative;
+  justify-content: center;
+  align-items: center;
+  width: max-content;
+  height: max-content;
+}
+
+.widget-LNnNLw {
+  color: #fff5a3;
+  font-size: calc(18vw/var(--resizer)*100);
+  font-style: bold;
+}
+
+.pic-PIBSxoELdkG {
+  display: flex;
+  position: relative;
+  justify-content: center;
+  align-items: center;
+}
+
+.icon-UpzyFXvQAdbeW {
+  display: flex;
+  position: relative;
+  justify-content: center;
+  align-items: center;
+  width: max-content;
+  height: max-content;
+}
+
+.small-RelmPjpoqNiznWB {
+  color: #fff5a3;
+  font-size: calc(18vw/var(--resizer)*100);
+  font-style: bold;
+}
+
+.wrap-KynWFvee {
+  display: flex;
+  position: relative;
+  justify-content: center;
+  align-items: center;
+}
+
+.col-LoyLXztlmuuC {
+  display: flex;
+  position: relative;
+  justify-content: center;
+  align-items: center;
+  max-width: calc(650vw/var(--resizer)*100);
+  gap: calc(15vw/var(--resizer)*100);
+  margin: auto auto auto auto;
+  flex-direction: column;
+  text-align: center;
+}
+
+.headline-QPjLSX {
+  font-family: 'Brygada 1918', serif;
+  font-size: calc(46vw/var(--resizer)*100);
+  font-weight: 900;
+  color: #fff5a3;
+}
+
+.col-maADmev {
+  display: flex;
+  position: relative;
+  justify-content: center;
+  align-items: center;
+  gap: calc(42vw/var(--resizer)*100);
+  flex-direction: row;
+}
+
+.wrapper-qgesBxtnBnbOuY {
+  display: flex;
+  position: relative;
+  margin: auto;
+  border: none;
+  justify-content: center;
+  align-items: center;
+  box-sizing: border-box;
+  width: calc(250vw/var(--resizer)*100);
+  height: calc(50vw/var(--resizer)*100);
+  padding: calc(0vw/var(--resizer)*100) calc(10vw/var(--resizer)*100) calc(0vw/var(--resizer)*100) calc(10vw/var(--resizer)*100);
+  color: #fff5a3;
+  background-color: #470099;
+  font-size: calc(16vw/var(--resizer)*100);
+  text-align: undefined;
+  border-radius: calc(12vw/var(--resizer)*100);
+}
+
+.avatar-WtckblFZ {
+  display: flex;
+  position: relative;
+  margin: auto;
+  border: none;
+  justify-content: center;
+  align-items: center;
+  box-sizing: border-box;
+  width: calc(250vw/var(--resizer)*100);
+  height: calc(50vw/var(--resizer)*100);
+  padding: calc(0vw/var(--resizer)*100) calc(10vw/var(--resizer)*100) calc(0vw/var(--resizer)*100) calc(10vw/var(--resizer)*100);
+  color: #17165d;
+  background-color: #dbaa8a;
+  font-size: calc(16vw/var(--resizer)*100);
+  border-radius: calc(12vw/var(--resizer)*100);
+}
+
+.breadcrumbs-GCbhERxHJMLzOD {
+  display: flex;
+  position: relative;
+  justify-content: center;
+  align-items: center;
+  width: 80%;
+  padding: calc(50vw/var(--resizer)*100) 10% calc(0vw/var(--resizer)*100) 10%;
+  background-color: #470099;
+  flex-direction: column;
+}
+
+.headline-ljvVtMkwIT {
+  display: flex;
+  position: relative;
+  justify-content: space-between;
+  align-items: center;
+  width: 100%;
+  margin: auto auto auto auto;
+  padding: calc(50vw/var(--resizer)*100) calc(0vw/var(--resizer)*100) calc(50vw/var(--resizer)*100) calc(0vw/var(--resizer)*100);
+  border-top: calc(1vw/var(--resizer)*100) solid rgb(241,243,244);
+}
+
+.lg-BpGRXvJFwIZtnkdc {
+  font-family: 'Brygada 1918', serif;
+  font-size: calc(16vw/var(--resizer)*100);
+  font-weight: 400;
+  color: #fff5a3;
+  text-decoration: none;
+  text-align: undefined;
+}
+
+.holder-QpfdPfjf {
+  font-family: 'Brygada 1918', serif;
+  font-size: calc(16vw/var(--resizer)*100);
+  font-weight: 400;
+  color: #fff5a3;
+  text-decoration: none;
+  text-align: undefined;
+}
+
+.xl-mdcxJxfyqhuQiTn {
+  font-family: 'Brygada 1918', serif;
+  font-size: calc(16vw/var(--resizer)*100);
+  font-weight: 400;
+  color: #fff5a3;
+  text-decoration: none;
+  text-align: undefined;
+}
+
+.box-eHpxoWZICUchgZ {
+  display: none;
+}
+
+
+.content-dCxyzrksMyF {
+  display: flex;
+  position: relative;
+  max-width: 100%;
+  margin: 0 auto;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+}
+
+.aside-zHTgvnEMLNwgDIK {
+  display: flex;
+  position: relative;
+  width: 100%;
+  margin: 0 auto;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+}
+
+.small-DsYAelCmj {
+  display: flex;
+  position: relative;
+  justify-content: center;
+  align-items: center;
+  width: 80%;
+  height: max-content;
+  margin: calc(0vw/var(--resizer)*100) auto calc(0vw/var(--resizer)*100) auto;
+  padding: calc(50vw/var(--resizer)*100) 10% calc(50vw/var(--resizer)*100) 10%;
+  gap: undefined;
+  flex-direction: column;
+  background: inherit;
+  background-color: #470099;
+}
+
+.huge-clFCNuw {
+  display: flex;
+  position: relative;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+  gap: calc(43vw/var(--resizer)*100);
+}
+
+.control-IkpXVjxoT {
+  display: flex;
+  position: relative;
+  justify-content: center;
+  align-items: center;
+  max-width: calc(650vw/var(--resizer)*100);
+  gap: calc(15vw/var(--resizer)*100);
+  margin: auto auto auto auto;
+  flex-direction: column;
+  text-align: center;
+}
+
+.tip-tQhYlPfFhtCjso {
+  font-family: 'Brygada 1918', serif;
+  font-size: calc(46vw/var(--resizer)*100);
+  font-weight: 900;
+  color: #fff5a3;
+}
+
+.widget-UHvEqFSHg {
+  font-family: 'Brygada 1918', serif;
+  font-size: calc(16vw/var(--resizer)*100);
+  font-weight: 400;
+  color: #fff5a3;
+  line-height: calc(24vw/var(--resizer)*100);
+}
+
+.content-NFQlEzFEVATmSoca {
+  display: flex;
+  position: relative;
+  justify-content: center;
+  align-items: center;
+  gap: calc(10vw/var(--resizer)*100);
+  border-radius: calc(41vw/var(--resizer)*100);
+  appURL: index.html;
+  width: 100%;
+  height: calc(50vw/var(--resizer)*100);
+}
+
+.md-rqMNxIUPGNFPqc {
+  display: flex;
+  position: relative;
+  justify-content: center;
+  align-items: center;
+  width: 35%;
+  height: calc(35vw/var(--resizer)*100);
+  border-radius: calc(40vw/var(--resizer)*100);
+  background-color: #dbaa8a;
+  appURL: index.html;
+  padding: calc(5vw/var(--resizer)*100) calc(5vw/var(--resizer)*100) calc(5vw/var(--resizer)*100) calc(5vw/var(--resizer)*100);
+  gap: calc(35vw/var(--resizer)*100);
+}
+
+.small-DMxQDoVXwIP {
+  font-weight: 900;
+  font-family: 'Brygada 1918', serif;
+  color: #17165d;
+  font-size: calc(16vw/var(--resizer)*100);
+}
+
+.title-nfCxrV {
+  display: flex;
+  position: relative;
+  justify-content: center;
+  align-items: center;
+  width: 92%;
+  padding: calc(50vw/var(--resizer)*100) calc(50vw/var(--resizer)*100) calc(50vw/var(--resizer)*100) calc(50vw/var(--resizer)*100);
+  gap: calc(26vw/var(--resizer)*100);
+  border-radius: calc(29vw/var(--resizer)*100);
+  border-top: calc(3vw/var(--resizer)*100) double #fff5a3;
+  flex-wrap: wrap;
+}
+
+.headline-KjwKJJ {
+  font-family: 'Brygada 1918', serif;
+  font-size: calc(23vw/var(--resizer)*100);
+  font-weight: 400;
+  color: #fff5a3;
+  text-align: left;
+}
+
+.xl-RxtnEYGqsaCvw {
+  display: flex;
+  position: relative;
+  justify-content: wrap;
+  align-items: center;
+  width: auto;
+  gap: calc(5vw/var(--resizer)*100);
+  flex-direction: column;
+}
+
+.lg-nKVYKhQeMkkg {
+  display: flex;
+  position: relative;
+  justify-content: center;
+  align-items: center;
+}
+
+.breadcrumbs-idjDIMbNwrMSYTmO {
+  display: flex;
+  position: relative;
+  justify-content: center;
+  align-items: center;
+  width: max-content;
+  height: max-content;
+}
+
+.grid-dtqsKUwcGHFfY {
+  color: #fff5a3;
+  font-size: calc(18vw/var(--resizer)*100);
+  font-style: bold;
+}
+
+.thumb-oHksFcKDNlJwRdhF {
+  display: flex;
+  position: relative;
+  justify-content: center;
+  align-items: center;
+}
+
+.text-MymVvFvALvjPsqEV {
+  display: flex;
+  position: relative;
+  justify-content: center;
+  align-items: center;
+  width: max-content;
+  height: max-content;
+}
+
+.subtitle-gboLGIY {
+  color: #fff5a3;
+  font-size: calc(18vw/var(--resizer)*100);
+  font-style: bold;
+}
+
+.narrow-OBsOgSpomF {
+  display: flex;
+  position: relative;
+  justify-content: center;
+  align-items: center;
+  width: 80%;
+  padding: calc(50vw/var(--resizer)*100) 10% calc(50vw/var(--resizer)*100) 10%;
+  gap: calc(25vw/var(--resizer)*100);
+  flex-direction: column;
+  background-color: #17165d;
+}
+
+.thumb-HHJEzCIJl {
+  display: flex;
+  position: relative;
+  justify-content: center;
+  align-items: center;
+}
+
+.medium-yrfTZLxzl {
+  display: flex;
+  position: relative;
+  justify-content: center;
+  align-items: center;
+  max-width: calc(650vw/var(--resizer)*100);
+  gap: calc(15vw/var(--resizer)*100);
+  margin: auto auto auto auto;
+  flex-direction: column;
+  text-align: center;
+}
+
+.tiny-KCcqGXGverpOR {
+  font-family: 'Brygada 1918', serif;
+  font-size: calc(46vw/var(--resizer)*100);
+  font-weight: 900;
+  color: #fff5a3;
+}
+
+.all-vTGdRYM {
+  display: flex;
+  position: relative;
+  justify-content: center;
+  align-items: center;
+  gap: calc(38vw/var(--resizer)*100);
+  flex-direction: row;
+}
+
+.sidebar-kHbBHNCnYXNLsj {
+  display: flex;
+  position: relative;
+  margin: auto;
+  border: none;
+  justify-content: center;
+  align-items: center;
+  box-sizing: border-box;
+  width: calc(250vw/var(--resizer)*100);
+  height: calc(50vw/var(--resizer)*100);
+  padding: calc(0vw/var(--resizer)*100) calc(10vw/var(--resizer)*100) calc(0vw/var(--resizer)*100) calc(10vw/var(--resizer)*100);
+  color: #fff5a3;
+  background-color: #470099;
+  font-size: calc(16vw/var(--resizer)*100);
+  text-align: undefined;
+  border-radius: calc(40vw/var(--resizer)*100);
+}
+
+.medium-zIXlozOQQLP {
+  display: flex;
+  position: relative;
+  margin: auto;
+  border: none;
+  justify-content: center;
+  align-items: center;
+  box-sizing: border-box;
+  width: calc(250vw/var(--resizer)*100);
+  height: calc(50vw/var(--resizer)*100);
+  padding: calc(0vw/var(--resizer)*100) calc(10vw/var(--resizer)*100) calc(0vw/var(--resizer)*100) calc(10vw/var(--resizer)*100);
+  color: #17165d;
+  background-color: #dbaa8a;
+  font-size: calc(16vw/var(--resizer)*100);
+  border-radius: calc(40vw/var(--resizer)*100);
+}
+
+.button-fALZefBvmtrwEW {
+  display: flex;
+  position: relative;
+  justify-content: center;
+  align-items: center;
+  width: 80%;
+  padding: calc(50vw/var(--resizer)*100) 10% calc(0vw/var(--resizer)*100) 10%;
+  background-color: #470099;
+  flex-direction: column;
+}
+
+.container-VrJCMGjAO {
+  display: flex;
+  position: relative;
+  justify-content: space-between;
+  align-items: center;
+  width: 100%;
+  margin: auto auto auto auto;
+  padding: calc(50vw/var(--resizer)*100) calc(0vw/var(--resizer)*100) calc(50vw/var(--resizer)*100) calc(0vw/var(--resizer)*100);
+  border-top: calc(1vw/var(--resizer)*100) solid rgb(241,243,244);
+}
+
+.widget-FjrsNmYHLaEpb {
+  font-family: 'Brygada 1918', serif;
+  font-size: calc(16vw/var(--resizer)*100);
+  font-weight: 400;
+  color: #fff5a3;
+  text-decoration: none;
+  text-align: undefined;
+}
+
+.userpic-pSxwluIoaXnUTGp {
+  font-family: 'Brygada 1918', serif;
+  font-size: calc(16vw/var(--resizer)*100);
+  font-weight: 400;
+  color: #fff5a3;
+  text-decoration: none;
+  text-align: undefined;
+}
+
+.text-FKCoquhxtk {
+  font-family: 'Brygada 1918', serif;
+  font-size: calc(16vw/var(--resizer)*100);
+  font-weight: 400;
+  color: #fff5a3;
+  text-decoration: none;
+  text-align: undefined;
+}
+
+.small-bTljqidANZLaIx {
+  display: none;
+}
+
+
+.subtitle-rrUrKksWeKiop {
+  display: flex;
+  position: relative;
+  max-width: 100%;
+  margin: 0 auto;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+}
+
+.tooltip-kdMVqgvEaobinhc {
+  display: flex;
+  position: relative;
+  width: 100%;
+  margin: 0 auto;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+}
+
+.subject-BpxDjYYYfXu {
+  display: flex;
+  position: relative;
+  justify-content: center;
+  align-items: center;
+  width: 80%;
+  height: max-content;
+  margin: calc(0vw/var(--resizer)*100) auto calc(0vw/var(--resizer)*100) auto;
+  padding: calc(50vw/var(--resizer)*100) 10% calc(50vw/var(--resizer)*100) 10%;
+  gap: undefined;
+  flex-direction: column;
+  background: inherit;
+  background-color: #17165d;
+}
+
+.heading-BzBzjhzcb {
+  display: flex;
+  position: relative;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+  gap: calc(49vw/var(--resizer)*100);
+}
+
+.active-PRxhAutZPgOWPEp {
+  display: flex;
+  position: relative;
+  justify-content: center;
+  align-items: center;
+  gap: calc(10vw/var(--resizer)*100);
+  border-radius: calc(43vw/var(--resizer)*100);
+  appURL: index.html;
+  width: 100%;
+  height: calc(50vw/var(--resizer)*100);
+}
+
+.heading-WeAtykY {
+  display: flex;
+  position: relative;
+  justify-content: center;
+  align-items: center;
+  width: 35%;
+  height: calc(35vw/var(--resizer)*100);
+  border-radius: calc(17vw/var(--resizer)*100);
+  background-color: #dbaa8a;
+  appURL: index.html;
+  padding: calc(5vw/var(--resizer)*100) calc(5vw/var(--resizer)*100) calc(5vw/var(--resizer)*100) calc(5vw/var(--resizer)*100);
+  gap: calc(33vw/var(--resizer)*100);
+}
+
+.caption-BegXeCkLjaJTlnf {
+  font-weight: 900;
+  font-family: 'Brygada 1918', serif;
+  color: #17165d;
+  font-size: calc(16vw/var(--resizer)*100);
+}
+
+.sidebar-oSbMMCBVdDxnXT {
+  display: flex;
+  position: relative;
+  justify-content: center;
+  align-items: center;
+  width: 35%;
+  height: calc(35vw/var(--resizer)*100);
+  border-radius: calc(17vw/var(--resizer)*100);
+  background-color: #fff5a3;
+  appURL: index.html;
+  padding: calc(5vw/var(--resizer)*100) calc(5vw/var(--resizer)*100) calc(5vw/var(--resizer)*100) calc(5vw/var(--resizer)*100);
+  gap: calc(33vw/var(--resizer)*100);
+}
+
+.subtitle-OXTeoUNtHNcVWkM {
+  font-weight: 900;
+  font-family: 'Brygada 1918', serif;
+  color: #17165d;
+  font-size: calc(16vw/var(--resizer)*100);
+}
+
+.img-AyRlPuno {
+  display: flex;
+  position: relative;
+  justify-content: center;
+  align-items: center;
+  max-width: calc(650vw/var(--resizer)*100);
+  gap: calc(15vw/var(--resizer)*100);
+  margin: auto auto auto auto;
+  flex-direction: column;
+  text-align: center;
+}
+
+.grid-ejarnvKVWOCBOEJ {
+  font-family: 'Brygada 1918', serif;
+  font-size: calc(46vw/var(--resizer)*100);
+  font-weight: 900;
+  color: #fff5a3;
+}
+
+.pic-zqdNvulqXduZ {
+  font-family: 'Brygada 1918', serif;
+  font-size: calc(16vw/var(--resizer)*100);
+  font-weight: 400;
+  color: #fff5a3;
+  line-height: calc(24vw/var(--resizer)*100);
+}
+
+.medium-fKcVUGyJZZlpKvZY {
+  display: flex;
+  position: relative;
+  justify-content: center;
+  align-items: center;
+  width: 80%;
+  flex-direction: column;
+  gap: calc(28vw/var(--resizer)*100);
+  padding: calc(50vw/var(--resizer)*100) 10% calc(50vw/var(--resizer)*100) 10%;
+  background-color: #17165d;
+}
+
+.aside-VCgOuDHFJVI {
+  display: flex;
+  position: relative;
+  justify-content: center;
+  align-items: center;
+  width: 92%;
+  padding: calc(50vw/var(--resizer)*100) calc(50vw/var(--resizer)*100) calc(50vw/var(--resizer)*100) calc(50vw/var(--resizer)*100);
+  gap: calc(26vw/var(--resizer)*100);
+  border-radius: calc(29vw/var(--resizer)*100);
+  border-top: calc(3vw/var(--resizer)*100) double #fff5a3;
+  flex-wrap: wrap;
+}
+
+.more-DUlPmxBfsfsQhY {
+  font-family: 'Brygada 1918', serif;
+  font-size: calc(23vw/var(--resizer)*100);
+  font-weight: 400;
+  color: #fff5a3;
+  text-align: left;
+}
+
+.picture-CfzXBEnlBsJcna {
+  display: flex;
+  position: relative;
+  justify-content: wrap;
+  align-items: center;
+  width: auto;
+  gap: calc(5vw/var(--resizer)*100);
+  flex-direction: column;
+}
+
+.large-vplnHtNBGoX {
+  display: flex;
+  position: relative;
+  justify-content: center;
+  align-items: center;
+}
+
+.wide-ycGVzO {
+  display: flex;
+  position: relative;
+  justify-content: center;
+  align-items: center;
+  width: max-content;
+  height: max-content;
+}
+
+.caption-PhxiUgy {
+  color: #fff5a3;
+  font-size: calc(18vw/var(--resizer)*100);
+  font-style: bold;
+}
+
+.lg-vjhBBOhRuoWP {
+  display: flex;
+  position: relative;
+  justify-content: center;
+  align-items: center;
+}
+
+.current-krQHoRSuNm {
+  display: flex;
+  position: relative;
+  justify-content: center;
+  align-items: center;
+  width: max-content;
+  height: max-content;
+}
+
+.large-AwSTFORqR {
+  color: #fff5a3;
+  font-size: calc(18vw/var(--resizer)*100);
+  font-style: bold;
+}
+
+.desc-kChgUbsvwdykqX {
+  display: flex;
+  position: relative;
+  justify-content: center;
+  align-items: center;
+}
+
+.active-mxuXIRZX {
+  display: flex;
+  position: relative;
+  justify-content: center;
+  align-items: center;
+  max-width: calc(650vw/var(--resizer)*100);
+  gap: calc(15vw/var(--resizer)*100);
+  margin: auto auto auto auto;
+  flex-direction: column;
+  text-align: center;
+}
+
+.xs-JnAMAjQUtiE {
+  font-family: 'Brygada 1918', serif;
+  font-size: calc(46vw/var(--resizer)*100);
+  font-weight: 900;
+  color: #fff5a3;
+}
+
+.pic-HPMuHFheWWzfkJ {
+  font-family: 'Brygada 1918', serif;
+  font-size: calc(16vw/var(--resizer)*100);
+  font-weight: 400;
+  color: #fff5a3;
+  line-height: calc(24vw/var(--resizer)*100);
+}
+
+.sm-vIFggftGSBhtmaa {
+  display: flex;
+  position: relative;
+  justify-content: center;
+  align-items: center;
+  gap: calc(20vw/var(--resizer)*100);
+  flex-direction: row;
+}
+
+.widget-BVCArwFAtUM {
+  display: flex;
+  position: relative;
+  margin: auto;
+  border: none;
+  justify-content: center;
+  align-items: center;
+  box-sizing: border-box;
+  width: calc(250vw/var(--resizer)*100);
+  height: calc(50vw/var(--resizer)*100);
+  padding: calc(0vw/var(--resizer)*100) calc(10vw/var(--resizer)*100) calc(0vw/var(--resizer)*100) calc(10vw/var(--resizer)*100);
+  color: #fff5a3;
+  background-color: #470099;
+  font-size: calc(16vw/var(--resizer)*100);
+  text-align: undefined;
+  border-radius: calc(44vw/var(--resizer)*100);
+}
+
+.img-KTJJxbameVI {
+  display: flex;
+  position: relative;
+  margin: auto;
+  border: none;
+  justify-content: center;
+  align-items: center;
+  box-sizing: border-box;
+  width: calc(250vw/var(--resizer)*100);
+  height: calc(50vw/var(--resizer)*100);
+  padding: calc(0vw/var(--resizer)*100) calc(10vw/var(--resizer)*100) calc(0vw/var(--resizer)*100) calc(10vw/var(--resizer)*100);
+  color: #17165d;
+  background-color: #dbaa8a;
+  font-size: calc(16vw/var(--resizer)*100);
+  border-radius: calc(44vw/var(--resizer)*100);
+}
+
+.control-qoEfDpMd {
+  display: flex;
+  position: relative;
+  justify-content: center;
+  align-items: center;
+  width: 80%;
+  padding: calc(50vw/var(--resizer)*100) 10% calc(0vw/var(--resizer)*100) 10%;
+  background-color: #470099;
+  flex-direction: column;
+}
+
+.pic-GgsMnE {
+  display: flex;
+  position: relative;
+  justify-content: space-between;
+  align-items: center;
+  width: 100%;
+  margin: auto auto auto auto;
+  padding: calc(50vw/var(--resizer)*100) calc(0vw/var(--resizer)*100) calc(50vw/var(--resizer)*100) calc(0vw/var(--resizer)*100);
+  border-top: calc(1vw/var(--resizer)*100) solid rgb(241,243,244);
+}
+
+.wrap-jLxpeZjQIrp {
+  font-family: 'Brygada 1918', serif;
+  font-size: calc(16vw/var(--resizer)*100);
+  font-weight: 400;
+  color: #fff5a3;
+  text-decoration: none;
+  text-align: undefined;
+}
+
+.userpic-FLDyHDq {
+  font-family: 'Brygada 1918', serif;
+  font-size: calc(16vw/var(--resizer)*100);
+  font-weight: 400;
+  color: #fff5a3;
+  text-decoration: none;
+  text-align: undefined;
+}
+
+.button-GjUpvTDJb {
+  font-family: 'Brygada 1918', serif;
+  font-size: calc(16vw/var(--resizer)*100);
+  font-weight: 400;
+  color: #fff5a3;
+  text-decoration: none;
+  text-align: undefined;
+}
+
+.col-hUWsccJmCELpKysO {
+  display: none;
+}
+
+
+.col-hhvtYfKau {
+  display: flex;
+  position: relative;
+  max-width: 100%;
+  margin: 0 auto;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+}
+
+.large-RpAbSwZLwhEKyo {
+  display: flex;
+  position: relative;
+  width: 100%;
+  margin: 0 auto;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+}
+
+.more-gxDjpBKaSYtfxZ {
+  display: flex;
+  position: relative;
+  justify-content: center;
+  align-items: center;
+  width: 80%;
+  height: max-content;
+  margin: calc(0vw/var(--resizer)*100) auto calc(0vw/var(--resizer)*100) auto;
+  padding: calc(50vw/var(--resizer)*100) 10% calc(50vw/var(--resizer)*100) 10%;
+  gap: undefined;
+  flex-direction: column;
+  background: inherit;
+  background-color: #17165d;
+}
+
+.tooltip-bIFBsr {
+  display: flex;
+  position: relative;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+  gap: calc(50vw/var(--resizer)*100);
+}
+
+.desc-mvdXsiSzcjQyM {
+  display: flex;
+  position: relative;
+  justify-content: center;
+  align-items: center;
+  max-width: calc(650vw/var(--resizer)*100);
+  gap: calc(15vw/var(--resizer)*100);
+  margin: auto auto auto auto;
+  flex-direction: column;
+  text-align: center;
+}
+
+.xl-pxGeQA {
+  font-family: 'Brygada 1918', serif;
+  font-size: calc(46vw/var(--resizer)*100);
+  font-weight: 900;
+  color: #fff5a3;
+}
+
+.holder-upBaRZLZYHskkl {
+  font-family: 'Brygada 1918', serif;
+  font-size: calc(16vw/var(--resizer)*100);
+  font-weight: 400;
+  color: #fff5a3;
+  line-height: calc(24vw/var(--resizer)*100);
+}
+
+.picture-NsoTqnJkvh {
+  display: flex;
+  position: relative;
+  justify-content: center;
+  align-items: center;
+  gap: calc(10vw/var(--resizer)*100);
+  border-radius: calc(37vw/var(--resizer)*100);
+  appURL: index.html;
+  width: 100%;
+  height: calc(50vw/var(--resizer)*100);
+}
+
+.huge-sCDYWQFQgYhezhz {
+  display: flex;
+  position: relative;
+  justify-content: center;
+  align-items: center;
+  width: 35%;
+  height: calc(35vw/var(--resizer)*100);
+  border-radius: calc(15vw/var(--resizer)*100);
+  background-color: #dbaa8a;
+  appURL: index.html;
+  padding: calc(5vw/var(--resizer)*100) calc(5vw/var(--resizer)*100) calc(5vw/var(--resizer)*100) calc(5vw/var(--resizer)*100);
+  gap: calc(26vw/var(--resizer)*100);
+}
+
+.caption-qPDcEpqiKJOwgLc {
+  font-weight: 900;
+  font-family: 'Brygada 1918', serif;
+  color: #17165d;
+  font-size: calc(16vw/var(--resizer)*100);
+}
+
+.text-KuqZDoIiJet {
+  display: flex;
+  position: relative;
+  justify-content: center;
+  align-items: center;
+  width: 35%;
+  height: calc(35vw/var(--resizer)*100);
+  border-radius: calc(15vw/var(--resizer)*100);
+  background-color: #fff5a3;
+  appURL: index.html;
+  padding: calc(5vw/var(--resizer)*100) calc(5vw/var(--resizer)*100) calc(5vw/var(--resizer)*100) calc(5vw/var(--resizer)*100);
+  gap: calc(26vw/var(--resizer)*100);
+}
+
+.desc-FQebLaLDiAFHE {
+  font-weight: 900;
+  font-family: 'Brygada 1918', serif;
+  color: #17165d;
+  font-size: calc(16vw/var(--resizer)*100);
+}
+
+.thumb-lNgDXTAB {
+  display: flex;
+  position: relative;
+  justify-content: center;
+  align-items: center;
+  width: 92%;
+  padding: calc(50vw/var(--resizer)*100) calc(50vw/var(--resizer)*100) calc(50vw/var(--resizer)*100) calc(50vw/var(--resizer)*100);
+  gap: calc(26vw/var(--resizer)*100);
+  border-radius: calc(29vw/var(--resizer)*100);
+  border-top: calc(3vw/var(--resizer)*100) double #fff5a3;
+  flex-wrap: wrap;
+}
+
+.box-oQZJaCMJmOID {
+  font-family: 'Brygada 1918', serif;
+  font-size: calc(23vw/var(--resizer)*100);
+  font-weight: 400;
+  color: #fff5a3;
+  text-align: left;
+}
+
+.userpic-KKyLfsigOSrzJLKu {
+  display: flex;
+  position: relative;
+  justify-content: wrap;
+  align-items: center;
+  width: auto;
+  gap: calc(5vw/var(--resizer)*100);
+  flex-direction: column;
+}
+
+.picture-HTpDuTvkglL {
+  display: flex;
+  position: relative;
+  justify-content: center;
+  align-items: center;
+}
+
+.img-nJUuiZiQG {
+  display: flex;
+  position: relative;
+  justify-content: center;
+  align-items: center;
+  width: max-content;
+  height: max-content;
+}
+
+.userpic-dojKmISDKka {
+  color: #fff5a3;
+  font-size: calc(18vw/var(--resizer)*100);
+  font-style: bold;
+}
+
+.tip-UZSfJCl {
+  display: flex;
+  position: relative;
+  justify-content: center;
+  align-items: center;
+}
+
+.inner-ZSINbfYQpQdgwEM {
+  display: flex;
+  position: relative;
+  justify-content: center;
+  align-items: center;
+  width: max-content;
+  height: max-content;
+}
+
+.xl-aGkplxoFrsDdgxt {
+  color: #fff5a3;
+  font-size: calc(18vw/var(--resizer)*100);
+  font-style: bold;
+}
+
+.image-ygjSfoKediB {
+  display: flex;
+  position: relative;
+  justify-content: center;
+  align-items: center;
+  width: 80%;
+  padding: calc(50vw/var(--resizer)*100) 10% calc(50vw/var(--resizer)*100) 10%;
+  gap: calc(23vw/var(--resizer)*100);
+  flex-direction: column;
+  background-color: #17165d;
+}
+
+.wrap-RDMqxeTDxIKpNDI {
+  display: flex;
+  position: relative;
+  justify-content: center;
+  align-items: center;
+}
+
+.text-QBmBxArqiiBMly {
+  display: flex;
+  position: relative;
+  justify-content: center;
+  align-items: center;
+  max-width: calc(650vw/var(--resizer)*100);
+  gap: calc(15vw/var(--resizer)*100);
+  margin: auto auto auto auto;
+  flex-direction: column;
+  text-align: center;
+}
+
+.grid-iPbYYcbNZKh {
+  font-family: 'Brygada 1918', serif;
+  font-size: calc(46vw/var(--resizer)*100);
+  font-weight: 900;
+  color: #fff5a3;
+}
+
+.column-KmZEsAxzSI {
+  display: flex;
+  position: relative;
+  justify-content: center;
+  align-items: center;
+  gap: calc(19vw/var(--resizer)*100);
+  flex-direction: row;
+}
+
+.widget-CfZiPScUBlAzJsfX {
+  display: flex;
+  position: relative;
+  margin: auto;
+  border: none;
+  justify-content: center;
+  align-items: center;
+  box-sizing: border-box;
+  width: calc(250vw/var(--resizer)*100);
+  height: calc(50vw/var(--resizer)*100);
+  padding: calc(0vw/var(--resizer)*100) calc(10vw/var(--resizer)*100) calc(0vw/var(--resizer)*100) calc(10vw/var(--resizer)*100);
+  color: #fff5a3;
+  background-color: #470099;
+  font-size: calc(16vw/var(--resizer)*100);
+  text-align: undefined;
+  border-radius: calc(19vw/var(--resizer)*100);
+}
+
+.title-SYEYfrSwvYirYqgY {
+  display: flex;
+  position: relative;
+  margin: auto;
+  border: none;
+  justify-content: center;
+  align-items: center;
+  box-sizing: border-box;
+  width: calc(250vw/var(--resizer)*100);
+  height: calc(50vw/var(--resizer)*100);
+  padding: calc(0vw/var(--resizer)*100) calc(10vw/var(--resizer)*100) calc(0vw/var(--resizer)*100) calc(10vw/var(--resizer)*100);
+  color: #17165d;
+  background-color: #dbaa8a;
+  font-size: calc(16vw/var(--resizer)*100);
+  border-radius: calc(19vw/var(--resizer)*100);
+}
+
+.container-kqAXfTzVyARpdM {
+  display: flex;
+  position: relative;
+  justify-content: center;
+  align-items: center;
+  width: 80%;
+  padding: calc(50vw/var(--resizer)*100) 10% calc(0vw/var(--resizer)*100) 10%;
+  background-color: #470099;
+  flex-direction: column;
+}
+
+.subtitle-lXkTqfCn {
+  display: flex;
+  position: relative;
+  justify-content: space-between;
+  align-items: center;
+  width: 100%;
+  margin: auto auto auto auto;
+  padding: calc(50vw/var(--resizer)*100) calc(0vw/var(--resizer)*100) calc(50vw/var(--resizer)*100) calc(0vw/var(--resizer)*100);
+  border-top: calc(1vw/var(--resizer)*100) solid rgb(241,243,244);
+}
+
+.section-LgcoJmWkHU {
+  font-family: 'Brygada 1918', serif;
+  font-size: calc(16vw/var(--resizer)*100);
+  font-weight: 400;
+  color: #fff5a3;
+  text-decoration: none;
+  text-align: undefined;
+}
+
+.more-ImvPwNZPtCaaBSsb {
+  font-family: 'Brygada 1918', serif;
+  font-size: calc(16vw/var(--resizer)*100);
+  font-weight: 400;
+  color: #fff5a3;
+  text-decoration: none;
+  text-align: undefined;
+}
+
+.grid-jLbIssHcWo {
+  font-family: 'Brygada 1918', serif;
+  font-size: calc(16vw/var(--resizer)*100);
+  font-weight: 400;
+  color: #fff5a3;
+  text-decoration: none;
+  text-align: undefined;
+}
+
+.box-UhMLBCya {
+  display: none;
+}
+
+
+.grid-ANncPlEqISqk {
+  display: flex;
+  position: relative;
+  max-width: 100%;
+  margin: 0 auto;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+}
+
+.row-SpARpJZkVmtdzj {
+  display: flex;
+  position: relative;
+  width: 100%;
+  margin: 0 auto;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+}
+
+.content-gXvMTMmAagwqqX {
+  display: flex;
+  position: relative;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+  gap: calc(15vw/var(--resizer)*100);
+}
+
+.headline-hgcrYGvN {
+  display: flex;
+  position: relative;
+  justify-content: center;
+  align-items: center;
+  gap: calc(10vw/var(--resizer)*100);
+  border-radius: calc(45vw/var(--resizer)*100);
+  appURL: index.html;
+  width: 100%;
+  height: calc(50vw/var(--resizer)*100);
+}
+
+.tooltip-WuGorBfXXalS {
+  display: flex;
+  position: relative;
+  justify-content: center;
+  align-items: center;
+  width: 35%;
+  height: calc(35vw/var(--resizer)*100);
+  border-radius: calc(43vw/var(--resizer)*100);
+  background-color: #dbaa8a;
+  appURL: index.html;
+  padding: calc(5vw/var(--resizer)*100) calc(5vw/var(--resizer)*100) calc(5vw/var(--resizer)*100) calc(5vw/var(--resizer)*100);
+  gap: calc(23vw/var(--resizer)*100);
+}
+
+.headline-PgDvnHIDdMVomm {
+  font-weight: 900;
+  font-family: 'Brygada 1918', serif;
+  color: #17165d;
+  font-size: calc(16vw/var(--resizer)*100);
+}
+
+.col-wygyeORbclyP {
+  display: flex;
+  position: relative;
+  justify-content: center;
+  align-items: center;
+  width: 35%;
+  height: calc(35vw/var(--resizer)*100);
+  border-radius: calc(43vw/var(--resizer)*100);
+  background-color: #fff5a3;
+  appURL: index.html;
+  padding: calc(5vw/var(--resizer)*100) calc(5vw/var(--resizer)*100) calc(5vw/var(--resizer)*100) calc(5vw/var(--resizer)*100);
+  gap: calc(23vw/var(--resizer)*100);
+}
+
+.thumb-elheKHjeu {
+  font-weight: 900;
+  font-family: 'Brygada 1918', serif;
+  color: #17165d;
+  font-size: calc(16vw/var(--resizer)*100);
+}
+
+.widget-VzLXvPOy {
+  display: flex;
+  position: relative;
+  justify-content: center;
+  align-items: center;
+  max-width: calc(650vw/var(--resizer)*100);
+  gap: calc(15vw/var(--resizer)*100);
+  margin: auto auto auto auto;
+  flex-direction: column;
+  text-align: center;
+}
+
+.tip-ZtmnVd {
+  font-family: 'Brygada 1918', serif;
+  font-size: calc(46vw/var(--resizer)*100);
+  font-weight: 900;
+  color: #fff5a3;
+}
+
+.wrapper-FCGtixGa {
+  font-family: 'Brygada 1918', serif;
+  font-size: calc(16vw/var(--resizer)*100);
+  font-weight: 400;
+  color: #fff5a3;
+  line-height: calc(24vw/var(--resizer)*100);
+}
+
+.holder-sbbLuWi {
+  display: flex;
+  position: relative;
+  justify-content: center;
+  align-items: center;
+  width: 80%;
+  flex-direction: column;
+  gap: calc(16vw/var(--resizer)*100);
+  padding: calc(50vw/var(--resizer)*100) 10% calc(50vw/var(--resizer)*100) 10%;
+  background-color: #470099;
+}
+
+.breadcrumbs-uMapigNEtJrzVTDy {
+  display: flex;
+  position: relative;
+  justify-content: center;
+  align-items: center;
+  width: 92%;
+  padding: calc(50vw/var(--resizer)*100) calc(50vw/var(--resizer)*100) calc(50vw/var(--resizer)*100) calc(50vw/var(--resizer)*100);
+  gap: calc(26vw/var(--resizer)*100);
+  border-radius: calc(29vw/var(--resizer)*100);
+  border-top: calc(3vw/var(--resizer)*100) double #fff5a3;
+  flex-wrap: wrap;
+}
+
+.page-SLvmpPFhhpgxHP {
+  font-family: 'Brygada 1918', serif;
+  font-size: calc(23vw/var(--resizer)*100);
+  font-weight: 400;
+  color: #fff5a3;
+  text-align: left;
+}
+
+.huge-VCdQhgXCpNhkZ {
+  display: flex;
+  position: relative;
+  justify-content: wrap;
+  align-items: center;
+  width: auto;
+  gap: calc(5vw/var(--resizer)*100);
+  flex-direction: column;
+}
+
+.holder-PzMsWORJB {
+  display: flex;
+  position: relative;
+  justify-content: center;
+  align-items: center;
+}
+
+.tiny-bcFHIqcCsoHBwaNm {
+  display: flex;
+  position: relative;
+  justify-content: center;
+  align-items: center;
+  width: max-content;
+  height: max-content;
+}
+
+.wide-MXWOTBleFUOXM {
+  color: #fff5a3;
+  font-size: calc(18vw/var(--resizer)*100);
+  font-style: bold;
+}
+
+.active-rBzFoZXpGuiLId {
+  display: flex;
+  position: relative;
+  justify-content: center;
+  align-items: center;
+}
+
+.big-nXBWjEWUBwAMBBa {
+  display: flex;
+  position: relative;
+  justify-content: center;
+  align-items: center;
+  width: max-content;
+  height: max-content;
+}
+
+.xs-ZwjlNbf {
+  color: #fff5a3;
+  font-size: calc(18vw/var(--resizer)*100);
+  font-style: bold;
+}
+
+.breadcrumbs-UnKTcgmcst {
+  display: flex;
+  position: relative;
+  justify-content: center;
+  align-items: center;
+  width: 80%;
+  padding: calc(50vw/var(--resizer)*100) 10% calc(50vw/var(--resizer)*100) 10%;
+  gap: calc(34vw/var(--resizer)*100);
+  flex-direction: column;
+  background-color: #470099;
+}
+
+.small-MwpzmkU {
+  display: flex;
+  position: relative;
+  justify-content: center;
+  align-items: center;
+}
+
+.subtitle-gnzOmSkmaCDwi {
+  display: flex;
+  position: relative;
+  justify-content: center;
+  align-items: center;
+  max-width: calc(650vw/var(--resizer)*100);
+  gap: calc(15vw/var(--resizer)*100);
+  margin: auto auto auto auto;
+  flex-direction: column;
+  text-align: center;
+}
+
+.sidebar-suaYDKOsjWbYf {
+  font-family: 'Brygada 1918', serif;
+  font-size: calc(46vw/var(--resizer)*100);
+  font-weight: 900;
+  color: #fff5a3;
+}
+
+.widget-RPimtLWIFFEoDPsT {
+  font-family: 'Brygada 1918', serif;
+  font-size: calc(16vw/var(--resizer)*100);
+  font-weight: 400;
+  color: #fff5a3;
+  line-height: calc(24vw/var(--resizer)*100);
+}
+
+.narrow-EVFyYiLbAlwRI {
+  display: flex;
+  position: relative;
+  justify-content: center;
+  align-items: center;
+  gap: calc(36vw/var(--resizer)*100);
+  flex-direction: row;
+}
+
+.container-zClpeVYzYDNWQiC {
+  display: flex;
+  position: relative;
+  margin: auto;
+  border: none;
+  justify-content: center;
+  align-items: center;
+  box-sizing: border-box;
+  width: calc(250vw/var(--resizer)*100);
+  height: calc(50vw/var(--resizer)*100);
+  padding: calc(0vw/var(--resizer)*100) calc(10vw/var(--resizer)*100) calc(0vw/var(--resizer)*100) calc(10vw/var(--resizer)*100);
+  color: #fff5a3;
+  background-color: #470099;
+  font-size: calc(16vw/var(--resizer)*100);
+  text-align: undefined;
+  border-radius: calc(31vw/var(--resizer)*100);
+}
+
+.md-djzKRwKQEWvOP {
+  display: flex;
+  position: relative;
+  margin: auto;
+  border: none;
+  justify-content: center;
+  align-items: center;
+  box-sizing: border-box;
+  width: calc(250vw/var(--resizer)*100);
+  height: calc(50vw/var(--resizer)*100);
+  padding: calc(0vw/var(--resizer)*100) calc(10vw/var(--resizer)*100) calc(0vw/var(--resizer)*100) calc(10vw/var(--resizer)*100);
+  color: #17165d;
+  background-color: #dbaa8a;
+  font-size: calc(16vw/var(--resizer)*100);
+  border-radius: calc(31vw/var(--resizer)*100);
+}
+
+.inner-pZsMJuQu {
+  display: flex;
+  position: relative;
+  justify-content: center;
+  align-items: center;
+  width: 80%;
+  padding: calc(50vw/var(--resizer)*100) 10% calc(0vw/var(--resizer)*100) 10%;
+  background-color: #470099;
+  flex-direction: column;
+}
+
+.row-NliUcqcL {
+  display: flex;
+  position: relative;
+  justify-content: space-between;
+  align-items: center;
+  width: 100%;
+  margin: auto auto auto auto;
+  padding: calc(50vw/var(--resizer)*100) calc(0vw/var(--resizer)*100) calc(50vw/var(--resizer)*100) calc(0vw/var(--resizer)*100);
+  border-top: calc(1vw/var(--resizer)*100) solid rgb(241,243,244);
+}
+
+.page-GGRpXPNVi {
+  font-family: 'Brygada 1918', serif;
+  font-size: calc(16vw/var(--resizer)*100);
+  font-weight: 400;
+  color: #fff5a3;
+  text-decoration: none;
+  text-align: undefined;
+}
+
+.holder-gQKisLRrKplCTw {
+  font-family: 'Brygada 1918', serif;
+  font-size: calc(16vw/var(--resizer)*100);
+  font-weight: 400;
+  color: #fff5a3;
+  text-decoration: none;
+  text-align: undefined;
+}
+
+.page-wPoaTe {
+  font-family: 'Brygada 1918', serif;
+  font-size: calc(16vw/var(--resizer)*100);
+  font-weight: 400;
+  color: #fff5a3;
+  text-decoration: none;
+  text-align: undefined;
+}
+
+.narrow-MkxIMoHKkiD {
+  display: none;
+}
+
+
+.sidebar-dYLibmBgmKSjrbM {
+  display: flex;
+  position: relative;
+  max-width: 100%;
+  margin: 0 auto;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+}
+
+.more-iQRArXjTMR {
+  display: flex;
+  position: relative;
+  width: 100%;
+  margin: 0 auto;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+}
+
+.all-JKZiCjJwP {
+  display: flex;
+  position: relative;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+  gap: calc(18vw/var(--resizer)*100);
+  width: calc(500vw/var(--resizer)*100);
+}
+
+.narrow-bAhywBfAvWiR {
+  display: flex;
+  position: relative;
+  justify-content: center;
+  align-items: center;
+  gap: calc(10vw/var(--resizer)*100);
+  border-radius: calc(18vw/var(--resizer)*100);
+  appURL: index.html;
+  width: 100%;
+  height: calc(50vw/var(--resizer)*100);
+}
+
+.button-qwPwcnaNjePbCq {
+  display: flex;
+  position: relative;
+  justify-content: center;
+  align-items: center;
+  width: 35%;
+  height: calc(35vw/var(--resizer)*100);
+  border-radius: calc(46vw/var(--resizer)*100);
+  background-color: #dbaa8a;
+  appURL: index.html;
+  padding: calc(5vw/var(--resizer)*100) calc(5vw/var(--resizer)*100) calc(5vw/var(--resizer)*100) calc(5vw/var(--resizer)*100);
+  gap: calc(31vw/var(--resizer)*100);
+}
+
+.container-AYjmQdonWQtYYqGN {
+  font-weight: 900;
+  font-family: 'Brygada 1918', serif;
+  color: #17165d;
+  font-size: calc(16vw/var(--resizer)*100);
+}
+
+.headline-eZeMlhxkCZNE {
+  display: flex;
+  position: relative;
+  justify-content: center;
+  align-items: center;
+  max-width: calc(650vw/var(--resizer)*100);
+  gap: calc(15vw/var(--resizer)*100);
+  margin: auto auto auto auto;
+  flex-direction: column;
+  text-align: center;
+  width: calc(500vw/var(--resizer)*100);
+}
+
+.container-XwuGHKFzsEuKia {
+  font-family: 'Brygada 1918', serif;
+  font-size: calc(46vw/var(--resizer)*100);
+  font-weight: 900;
+  color: #fff5a3;
+}
+
+.all-HvoMbtyBpKQpa {
+  font-family: 'Brygada 1918', serif;
+  font-size: calc(16vw/var(--resizer)*100);
+  font-weight: 400;
+  color: #fff5a3;
+  line-height: calc(24vw/var(--resizer)*100);
+}
+
+.lg-kypzpaFw {
+  display: flex;
+  position: relative;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+  gap: calc(18vw/var(--resizer)*100);
+  width: calc(500vw/var(--resizer)*100);
+}
+
+.content-GjXXOnQBbVITLFby {
+  display: flex;
+  position: relative;
+  justify-content: center;
+  align-items: center;
+  max-width: max-content;
+  gap: calc(24vw/var(--resizer)*100);
+  flex-wrap: wrap;
+}
+
+.control-MtRZaJKnBvG {
+  display: flex;
+  position: relative;
+  justify-content: center;
+  align-items: center;
+  width: calc(484vw/var(--resizer)*100);
+  height: calc(484vw/var(--resizer)*100);
+  border-radius: calc(34vw/var(--resizer)*100);
+  box-shadow: calc(2vw/var(--resizer)*100) calc(-5vw/var(--resizer)*100) calc(14vw/var(--resizer)*100) calc(2vw/var(--resizer)*100) rgba(255, 245, 163, .5);
+}
+
+.subject-BdJIWNODIWEpd {
+  display: flex;
+  position: relative;
+  justify-content: center;
+  align-items: center;
+  width: 92%;
+  padding: calc(50vw/var(--resizer)*100) calc(50vw/var(--resizer)*100) calc(50vw/var(--resizer)*100) calc(50vw/var(--resizer)*100);
+  gap: calc(26vw/var(--resizer)*100);
+  border-radius: calc(29vw/var(--resizer)*100);
+  border-top: calc(3vw/var(--resizer)*100) double #fff5a3;
+  flex-wrap: wrap;
+}
+
+.active-OuFBQEuWVOvJ {
+  display: flex;
+  position: relative;
+  justify-content: wrap;
+  align-items: center;
+  width: auto;
+  gap: calc(5vw/var(--resizer)*100);
+  flex-direction: column;
+}
+
+.xl-yeyZunx {
+  display: flex;
+  position: relative;
+  justify-content: center;
+  align-items: center;
+}
+
+.picture-gCPcmqLP {
+  display: flex;
+  position: relative;
+  justify-content: center;
+  align-items: center;
+  width: max-content;
+  height: max-content;
+}
+
+.userpic-nKnUHHtHuBZfH {
+  color: #fff5a3;
+  font-size: calc(18vw/var(--resizer)*100);
+  font-style: bold;
+}
+
+.thumb-sqVQTfroC {
+  display: flex;
+  position: relative;
+  justify-content: center;
+  align-items: center;
+}
+
+.sidebar-ofwvTN {
+  display: flex;
+  position: relative;
+  justify-content: center;
+  align-items: center;
+  width: max-content;
+  height: max-content;
+}
+
+.box-oAgRMWGYdTU {
+  color: #fff5a3;
+  font-size: calc(18vw/var(--resizer)*100);
+  font-style: bold;
+}
+
+.col-GYrvKRiUvW {
+  font-family: 'Brygada 1918', serif;
+  font-size: calc(23vw/var(--resizer)*100);
+  font-weight: 400;
+  color: #fff5a3;
+  text-align: left;
+}
+
+.inner-RXvbFqbr {
+  display: flex;
+  position: relative;
+  justify-content: center;
+  align-items: center;
+}
+
+.text-hnTHVzTDSzvWrElc {
+  display: flex;
+  position: relative;
+  justify-content: center;
+  align-items: center;
+  max-width: calc(650vw/var(--resizer)*100);
+  gap: calc(15vw/var(--resizer)*100);
+  margin: auto auto auto auto;
+  flex-direction: column;
+  text-align: center;
+}
+
+.lg-AJrDGBoNvoX {
+  font-family: 'Brygada 1918', serif;
+  font-size: calc(46vw/var(--resizer)*100);
+  font-weight: 900;
+  color: #fff5a3;
+}
+
+.tooltip-BgmbEAZ {
+  font-family: 'Brygada 1918', serif;
+  font-size: calc(16vw/var(--resizer)*100);
+  font-weight: 400;
+  color: #fff5a3;
+  line-height: calc(24vw/var(--resizer)*100);
+}
+
+.desc-gFXiAht {
+  display: flex;
+  position: relative;
+  justify-content: center;
+  align-items: center;
+  gap: calc(39vw/var(--resizer)*100);
+  flex-direction: row;
+}
+
+.lg-XGfaIcZZtLSmJQF {
+  display: flex;
+  position: relative;
+  margin: auto;
+  border: none;
+  justify-content: center;
+  align-items: center;
+  box-sizing: border-box;
+  width: calc(250vw/var(--resizer)*100);
+  height: calc(50vw/var(--resizer)*100);
+  padding: calc(0vw/var(--resizer)*100) calc(10vw/var(--resizer)*100) calc(0vw/var(--resizer)*100) calc(10vw/var(--resizer)*100);
+  color: #fff5a3;
+  background-color: #470099;
+  font-size: calc(16vw/var(--resizer)*100);
+  text-align: undefined;
+  border-radius: calc(11vw/var(--resizer)*100);
+}
+
+.subtitle-ocOcQOpiuUKSkj {
+  display: flex;
+  position: relative;
+  margin: auto;
+  border: none;
+  justify-content: center;
+  align-items: center;
+  box-sizing: border-box;
+  width: calc(250vw/var(--resizer)*100);
+  height: calc(50vw/var(--resizer)*100);
+  padding: calc(0vw/var(--resizer)*100) calc(10vw/var(--resizer)*100) calc(0vw/var(--resizer)*100) calc(10vw/var(--resizer)*100);
+  color: #17165d;
+  background-color: #dbaa8a;
+  font-size: calc(16vw/var(--resizer)*100);
+  border-radius: calc(11vw/var(--resizer)*100);
+}
+
+.inner-iIOYVNUOsJIElO {
+  display: flex;
+  position: relative;
+  justify-content: center;
+  align-items: center;
+  width: 80%;
+  padding: calc(50vw/var(--resizer)*100) 10% calc(0vw/var(--resizer)*100) 10%;
+  background-color: #470099;
+  flex-direction: column;
+}
+
+.icon-qwrWmkBK {
+  display: flex;
+  position: relative;
+  justify-content: space-between;
+  align-items: center;
+  width: 100%;
+  margin: auto auto auto auto;
+  padding: calc(50vw/var(--resizer)*100) calc(0vw/var(--resizer)*100) calc(50vw/var(--resizer)*100) calc(0vw/var(--resizer)*100);
+  border-top: calc(1vw/var(--resizer)*100) solid rgb(241,243,244);
+}
+
+.xl-nPucrcvRIQ {
+  font-family: 'Brygada 1918', serif;
+  font-size: calc(16vw/var(--resizer)*100);
+  font-weight: 400;
+  color: #fff5a3;
+  text-decoration: none;
+  text-align: undefined;
+}
+
+.all-LLgPYbcBEVeJ {
+  font-family: 'Brygada 1918', serif;
+  font-size: calc(16vw/var(--resizer)*100);
+  font-weight: 400;
+  color: #fff5a3;
+  text-decoration: none;
+  text-align: undefined;
+}
+
+.sm-QEfslYs {
+  font-family: 'Brygada 1918', serif;
+  font-size: calc(16vw/var(--resizer)*100);
+  font-weight: 400;
+  color: #fff5a3;
+  text-decoration: none;
+  text-align: undefined;
+}
+
+.subject-vqVfFSrzerOM {
+  display: none;
+}
+
+
+.tagline-dmwVRSxuQV {
+  display: flex;
+  position: relative;
+  max-width: 100%;
+  margin: 0 auto;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+}
+
+.thumbnail-jlgAhWzbjujmggKG {
+  display: flex;
+  position: relative;
+  width: 100%;
+  margin: 0 auto;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+}
+
+.tip-CFlPkzsFEcggOzI {
+  display: flex;
+  position: relative;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+  gap: calc(31vw/var(--resizer)*100);
+  width: calc(500vw/var(--resizer)*100);
+}
+
+.md-TwrHfXioeR {
+  display: flex;
+  position: relative;
+  justify-content: center;
+  align-items: center;
+  max-width: max-content;
+  gap: calc(24vw/var(--resizer)*100);
+  flex-wrap: wrap;
+}
+
+.column-aaxRbjfSXDnAe {
+  display: flex;
+  position: relative;
+  justify-content: center;
+  align-items: center;
+  width: calc(458vw/var(--resizer)*100);
+  height: calc(458vw/var(--resizer)*100);
+  border-radius: calc(42vw/var(--resizer)*100);
+  box-shadow: calc(-1vw/var(--resizer)*100) calc(-1vw/var(--resizer)*100) calc(6vw/var(--resizer)*100) calc(4vw/var(--resizer)*100) rgba(255, 245, 163, .3);
+}
+
+.sm-NqQyoS {
+  display: flex;
+  position: relative;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+  gap: calc(31vw/var(--resizer)*100);
+  width: calc(500vw/var(--resizer)*100);
+}
+
+.sidebar-HNmFNitylR {
+  display: flex;
+  position: relative;
+  justify-content: center;
+  align-items: center;
+  gap: calc(10vw/var(--resizer)*100);
+  border-radius: calc(39vw/var(--resizer)*100);
+  appURL: index.html;
+  width: 100%;
+  height: calc(50vw/var(--resizer)*100);
+}
+
+.caption-nWNiSkRJsPwu {
+  display: flex;
+  position: relative;
+  justify-content: center;
+  align-items: center;
+  width: 35%;
+  height: calc(35vw/var(--resizer)*100);
+  border-radius: calc(13vw/var(--resizer)*100);
+  background-color: #dbaa8a;
+  appURL: index.html;
+  padding: calc(5vw/var(--resizer)*100) calc(5vw/var(--resizer)*100) calc(5vw/var(--resizer)*100) calc(5vw/var(--resizer)*100);
+  gap: calc(17vw/var(--resizer)*100);
+}
+
+.pic-NsUlyQeNFatbN {
+  font-weight: 900;
+  font-family: 'Brygada 1918', serif;
+  color: #17165d;
+  font-size: calc(16vw/var(--resizer)*100);
+}
+
+.aside-HdxJJCffiAjjVsu {
+  display: flex;
+  position: relative;
+  justify-content: center;
+  align-items: center;
+  width: 35%;
+  height: calc(35vw/var(--resizer)*100);
+  border-radius: calc(13vw/var(--resizer)*100);
+  background-color: #fff5a3;
+  appURL: index.html;
+  padding: calc(5vw/var(--resizer)*100) calc(5vw/var(--resizer)*100) calc(5vw/var(--resizer)*100) calc(5vw/var(--resizer)*100);
+  gap: calc(17vw/var(--resizer)*100);
+}
+
+.aside-DTDwDzdOwxUi {
+  font-weight: 900;
+  font-family: 'Brygada 1918', serif;
+  color: #17165d;
+  font-size: calc(16vw/var(--resizer)*100);
+}
+
+.wrap-SMAaeQADVPja {
+  display: flex;
+  position: relative;
+  justify-content: center;
+  align-items: center;
+  max-width: calc(650vw/var(--resizer)*100);
+  gap: calc(15vw/var(--resizer)*100);
+  margin: auto auto auto auto;
+  flex-direction: column;
+  text-align: center;
+  width: calc(500vw/var(--resizer)*100);
+}
+
+.wrap-UsgytRKuJRyu {
+  font-family: 'Brygada 1918', serif;
+  font-size: calc(46vw/var(--resizer)*100);
+  font-weight: 900;
+  color: #fff5a3;
+}
+
+.page-AKgOjN {
+  font-family: 'Brygada 1918', serif;
+  font-size: calc(16vw/var(--resizer)*100);
+  font-weight: 400;
+  color: #fff5a3;
+  line-height: calc(24vw/var(--resizer)*100);
+}
+
+.thumbnail-QIeHzSse {
+  display: flex;
+  position: relative;
+  justify-content: center;
+  align-items: center;
+  width: 80%;
+  flex-direction: column;
+  gap: calc(43vw/var(--resizer)*100);
+  padding: calc(50vw/var(--resizer)*100) 10% calc(50vw/var(--resizer)*100) 10%;
+  background-color: #17165d;
+}
+
+.title-flYPTtAZBAijV {
+  display: flex;
+  position: relative;
+  justify-content: center;
+  align-items: center;
+  width: 92%;
+  padding: calc(50vw/var(--resizer)*100) calc(50vw/var(--resizer)*100) calc(50vw/var(--resizer)*100) calc(50vw/var(--resizer)*100);
+  gap: calc(26vw/var(--resizer)*100);
+  border-radius: calc(29vw/var(--resizer)*100);
+  border-top: calc(3vw/var(--resizer)*100) double #fff5a3;
+  flex-wrap: wrap;
+}
+
+.container-xjFLwra {
+  font-family: 'Brygada 1918', serif;
+  font-size: calc(23vw/var(--resizer)*100);
+  font-weight: 400;
+  color: #fff5a3;
+  text-align: left;
+}
+
+.grid-IAASIgVNV {
+  display: flex;
+  position: relative;
+  justify-content: wrap;
+  align-items: center;
+  width: auto;
+  gap: calc(5vw/var(--resizer)*100);
+  flex-direction: column;
+}
+
+.row-zYtDljQk {
+  display: flex;
+  position: relative;
+  justify-content: center;
+  align-items: center;
+}
+
+.huge-sSxhtcJwIJkqq {
+  display: flex;
+  position: relative;
+  justify-content: center;
+  align-items: center;
+  width: max-content;
+  height: max-content;
+}
+
+.box-rYWMvTTEAvsfIq {
+  color: #fff5a3;
+  font-size: calc(18vw/var(--resizer)*100);
+  font-style: bold;
+}
+
+.tagline-kOSIdxoA {
+  display: flex;
+  position: relative;
+  justify-content: center;
+  align-items: center;
+}
+
+.tiny-bUQovMf {
+  display: flex;
+  position: relative;
+  justify-content: center;
+  align-items: center;
+  width: max-content;
+  height: max-content;
+}
+
+.img-WjwvXtMPXxVWbYP {
+  color: #fff5a3;
+  font-size: calc(18vw/var(--resizer)*100);
+  font-style: bold;
+}
+
+.container-lUXTlnjYVZzOtyPL {
+  display: flex;
+  position: relative;
+  justify-content: center;
+  align-items: center;
+  width: 80%;
+  padding: calc(50vw/var(--resizer)*100) 10% calc(50vw/var(--resizer)*100) 10%;
+  gap: calc(22vw/var(--resizer)*100);
+  flex-direction: column;
+  background-color: #17165d;
+}
+
+.heading-fODaDghh {
+  display: flex;
+  position: relative;
+  justify-content: center;
+  align-items: center;
+}
+
+.wrap-vKNPyKvG {
+  display: flex;
+  position: relative;
+  justify-content: center;
+  align-items: center;
+  max-width: calc(650vw/var(--resizer)*100);
+  gap: calc(15vw/var(--resizer)*100);
+  margin: auto auto auto auto;
+  flex-direction: column;
+  text-align: center;
+}
+
+.col-UCLRolmMRtImqdLR {
+  font-family: 'Brygada 1918', serif;
+  font-size: calc(46vw/var(--resizer)*100);
+  font-weight: 900;
+  color: #fff5a3;
+}
+
+.picture-iOpCgHoigkmrwwD {
+  display: flex;
+  position: relative;
+  justify-content: center;
+  align-items: center;
+  gap: calc(35vw/var(--resizer)*100);
+  flex-direction: row;
+}
+
+.img-lNckOYytux {
+  display: flex;
+  position: relative;
+  margin: auto;
+  border: none;
+  justify-content: center;
+  align-items: center;
+  box-sizing: border-box;
+  width: calc(250vw/var(--resizer)*100);
+  height: calc(50vw/var(--resizer)*100);
+  padding: calc(0vw/var(--resizer)*100) calc(10vw/var(--resizer)*100) calc(0vw/var(--resizer)*100) calc(10vw/var(--resizer)*100);
+  color: #fff5a3;
+  background-color: #470099;
+  font-size: calc(16vw/var(--resizer)*100);
+  text-align: undefined;
+  border-radius: calc(27vw/var(--resizer)*100);
+}
+
+.thumb-KMrBVdCTOepeRAA {
+  display: flex;
+  position: relative;
+  margin: auto;
+  border: none;
+  justify-content: center;
+  align-items: center;
+  box-sizing: border-box;
+  width: calc(250vw/var(--resizer)*100);
+  height: calc(50vw/var(--resizer)*100);
+  padding: calc(0vw/var(--resizer)*100) calc(10vw/var(--resizer)*100) calc(0vw/var(--resizer)*100) calc(10vw/var(--resizer)*100);
+  color: #17165d;
+  background-color: #dbaa8a;
+  font-size: calc(16vw/var(--resizer)*100);
+  border-radius: calc(27vw/var(--resizer)*100);
+}
+
+.inner-kwkUvwJywbUyH {
+  display: flex;
+  position: relative;
+  justify-content: center;
+  align-items: center;
+  width: 80%;
+  padding: calc(50vw/var(--resizer)*100) 10% calc(0vw/var(--resizer)*100) 10%;
+  background-color: #470099;
+  flex-direction: column;
+}
+
+.picture-EkKLOCDALHDXTU {
+  display: flex;
+  position: relative;
+  justify-content: space-between;
+  align-items: center;
+  width: 100%;
+  margin: auto auto auto auto;
+  padding: calc(50vw/var(--resizer)*100) calc(0vw/var(--resizer)*100) calc(50vw/var(--resizer)*100) calc(0vw/var(--resizer)*100);
+  border-top: calc(1vw/var(--resizer)*100) solid rgb(241,243,244);
+}
+
+.caption-GlfkNN {
+  font-family: 'Brygada 1918', serif;
+  font-size: calc(16vw/var(--resizer)*100);
+  font-weight: 400;
+  color: #fff5a3;
+  text-decoration: none;
+  text-align: undefined;
+}
+
+.img-rSJzXllKlmgpnVc {
+  font-family: 'Brygada 1918', serif;
+  font-size: calc(16vw/var(--resizer)*100);
+  font-weight: 400;
+  color: #fff5a3;
+  text-decoration: none;
+  text-align: undefined;
+}
+
+.tagline-IyJcfaIOKUZYNLd {
+  font-family: 'Brygada 1918', serif;
+  font-size: calc(16vw/var(--resizer)*100);
+  font-weight: 400;
+  color: #fff5a3;
+  text-decoration: none;
+  text-align: undefined;
+}
+
+.current-kROTvp {
+  display: none;
+}
+
+
+.desc-agWaNufkXyTf {
+  display: flex;
+  position: relative;
+  max-width: 100%;
+  margin: 0 auto;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+}
+
+.picture-HtcqpPZyQE {
+  display: flex;
+  position: relative;
+  width: 100%;
+  margin: 0 auto;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+}
+
+.pic-XDrsVavYDiwuFXWH {
+  display: flex;
+  position: relative;
+  justify-content: space-between;
+  align-items: center;
+  width: 80%;
+  height: max-content;
+  margin: calc(0vw/var(--resizer)*100) auto calc(0vw/var(--resizer)*100) auto;
+  padding: calc(50vw/var(--resizer)*100) 10% calc(50vw/var(--resizer)*100) 10%;
+  gap: undefined;
+  flex-direction: row;
+  background: inherit;
+  background-color: #470099;
+}
+
+.breadcrumbs-aOfnNptAsKf {
+  display: flex;
+  position: relative;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+  gap: calc(41vw/var(--resizer)*100);
+  width: calc(500vw/var(--resizer)*100);
+}
+
+.sidebar-IVwCUq {
+  display: flex;
+  position: relative;
+  justify-content: center;
+  align-items: center;
+  gap: calc(10vw/var(--resizer)*100);
+  border-radius: calc(24vw/var(--resizer)*100);
+  appURL: index.html;
+  width: 100%;
+  height: calc(50vw/var(--resizer)*100);
+}
+
+.tiny-ieliOqj {
+  display: flex;
+  position: relative;
+  justify-content: center;
+  align-items: center;
+  width: 35%;
+  height: calc(35vw/var(--resizer)*100);
+  border-radius: calc(9vw/var(--resizer)*100);
+  background-color: #dbaa8a;
+  appURL: index.html;
+  padding: calc(5vw/var(--resizer)*100) calc(5vw/var(--resizer)*100) calc(5vw/var(--resizer)*100) calc(5vw/var(--resizer)*100);
+  gap: calc(28vw/var(--resizer)*100);
+}
+
+.huge-RotWdURkDMwMx {
+  font-weight: 900;
+  font-family: 'Brygada 1918', serif;
+  color: #17165d;
+  font-size: calc(16vw/var(--resizer)*100);
+}
+
+.title-YzZXKm {
+  display: flex;
+  position: relative;
+  justify-content: center;
+  align-items: center;
+  max-width: calc(650vw/var(--resizer)*100);
+  gap: calc(15vw/var(--resizer)*100);
+  margin: auto auto auto auto;
+  flex-direction: column;
+  text-align: center;
+  width: calc(500vw/var(--resizer)*100);
+}
+
+.xs-ixnOGasDDGtnFqA {
+  font-family: 'Brygada 1918', serif;
+  font-size: calc(46vw/var(--resizer)*100);
+  font-weight: 900;
+  color: #fff5a3;
+}
+
+.section-gYPKjbEZMzNvda {
+  font-family: 'Brygada 1918', serif;
+  font-size: calc(16vw/var(--resizer)*100);
+  font-weight: 400;
+  color: #fff5a3;
+  line-height: calc(24vw/var(--resizer)*100);
+}
+
+.pic-AJQNkhUgpulYNbWK {
+  display: flex;
+  position: relative;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+  gap: calc(41vw/var(--resizer)*100);
+  width: calc(500vw/var(--resizer)*100);
+}
+
+.large-nduwOE {
+  display: flex;
+  position: relative;
+  justify-content: center;
+  align-items: center;
+  max-width: max-content;
+  gap: calc(24vw/var(--resizer)*100);
+  flex-wrap: wrap;
+}
+
+.small-YnxGVzW {
+  display: flex;
+  position: relative;
+  justify-content: center;
+  align-items: center;
+  width: calc(382vw/var(--resizer)*100);
+  height: calc(382vw/var(--resizer)*100);
+  border-radius: calc(23vw/var(--resizer)*100);
+  box-shadow: calc(-4vw/var(--resizer)*100) calc(4vw/var(--resizer)*100) calc(15vw/var(--resizer)*100) calc(3vw/var(--resizer)*100) rgba(255, 245, 163, .4);
+}
+
+.widget-ngXEYszolon {
+  display: flex;
+  position: relative;
+  justify-content: center;
+  align-items: center;
+  width: 92%;
+  padding: calc(50vw/var(--resizer)*100) calc(50vw/var(--resizer)*100) calc(50vw/var(--resizer)*100) calc(50vw/var(--resizer)*100);
+  gap: calc(26vw/var(--resizer)*100);
+  border-radius: calc(29vw/var(--resizer)*100);
+  border-top: calc(3vw/var(--resizer)*100) double #fff5a3;
+  flex-wrap: wrap;
+}
+
+.narrow-bIsdlSYNtZS {
+  display: flex;
+  position: relative;
+  justify-content: wrap;
+  align-items: center;
+  width: auto;
+  gap: calc(5vw/var(--resizer)*100);
+  flex-direction: column;
+}
+
+.breadcrumbs-KTQIdd {
+  display: flex;
+  position: relative;
+  justify-content: center;
+  align-items: center;
+}
+
+.tooltip-eBUbvx {
+  display: flex;
+  position: relative;
+  justify-content: center;
+  align-items: center;
+  width: max-content;
+  height: max-content;
+}
+
+.box-XReLsYhUlWiosr {
+  color: #fff5a3;
+  font-size: calc(18vw/var(--resizer)*100);
+  font-style: bold;
+}
+
+.xs-qNDxTyXaRPxSoV {
+  display: flex;
+  position: relative;
+  justify-content: center;
+  align-items: center;
+}
+
+.desc-GNnvUCIpGGTy {
+  display: flex;
+  position: relative;
+  justify-content: center;
+  align-items: center;
+  width: max-content;
+  height: max-content;
+}
+
+.breadcrumbs-qgGysnahcIURHWTG {
+  color: #fff5a3;
+  font-size: calc(18vw/var(--resizer)*100);
+  font-style: bold;
+}
+
+.box-imnXDsL {
+  font-family: 'Brygada 1918', serif;
+  font-size: calc(23vw/var(--resizer)*100);
+  font-weight: 400;
+  color: #fff5a3;
+  text-align: left;
+}
+
+.picture-ueSbMFQ {
+  display: flex;
+  position: relative;
+  justify-content: center;
+  align-items: center;
+}
+
+.container-eZMjIAfdZmkg {
+  display: flex;
+  position: relative;
+  justify-content: center;
+  align-items: center;
+  max-width: calc(650vw/var(--resizer)*100);
+  gap: calc(15vw/var(--resizer)*100);
+  margin: auto auto auto auto;
+  flex-direction: column;
+  text-align: center;
+}
+
+.btn-oxAkLLFlMBlFOufn {
+  font-family: 'Brygada 1918', serif;
+  font-size: calc(46vw/var(--resizer)*100);
+  font-weight: 900;
+  color: #fff5a3;
+}
+
+.tooltip-ExUCKQcLeaGLhtfb {
+  font-family: 'Brygada 1918', serif;
+  font-size: calc(16vw/var(--resizer)*100);
+  font-weight: 400;
+  color: #fff5a3;
+  line-height: calc(24vw/var(--resizer)*100);
+}
+
+.tooltip-oZkakmHLwcdvSr {
+  display: flex;
+  position: relative;
+  justify-content: center;
+  align-items: center;
+  gap: calc(17vw/var(--resizer)*100);
+  flex-direction: row;
+}
+
+.column-bDQfYHbNgEXnkVB {
+  display: flex;
+  position: relative;
+  margin: auto;
+  border: none;
+  justify-content: center;
+  align-items: center;
+  box-sizing: border-box;
+  width: calc(250vw/var(--resizer)*100);
+  height: calc(50vw/var(--resizer)*100);
+  padding: calc(0vw/var(--resizer)*100) calc(10vw/var(--resizer)*100) calc(0vw/var(--resizer)*100) calc(10vw/var(--resizer)*100);
+  color: #fff5a3;
+  background-color: #470099;
+  font-size: calc(16vw/var(--resizer)*100);
+  text-align: undefined;
+  border-radius: calc(7vw/var(--resizer)*100);
+}
+
+.control-vAVdikLuSOnag {
+  display: flex;
+  position: relative;
+  margin: auto;
+  border: none;
+  justify-content: center;
+  align-items: center;
+  box-sizing: border-box;
+  width: calc(250vw/var(--resizer)*100);
+  height: calc(50vw/var(--resizer)*100);
+  padding: calc(0vw/var(--resizer)*100) calc(10vw/var(--resizer)*100) calc(0vw/var(--resizer)*100) calc(10vw/var(--resizer)*100);
+  color: #17165d;
+  background-color: #dbaa8a;
+  font-size: calc(16vw/var(--resizer)*100);
+  border-radius: calc(7vw/var(--resizer)*100);
+}
+
+.img-BFxMnf {
+  display: flex;
+  position: relative;
+  justify-content: center;
+  align-items: center;
+  width: 80%;
+  padding: calc(50vw/var(--resizer)*100) 10% calc(0vw/var(--resizer)*100) 10%;
+  background-color: #470099;
+  flex-direction: column;
+}
+
+.thumb-kEErxUjfij {
+  display: flex;
+  position: relative;
+  justify-content: space-between;
+  align-items: center;
+  width: 100%;
+  margin: auto auto auto auto;
+  padding: calc(50vw/var(--resizer)*100) calc(0vw/var(--resizer)*100) calc(50vw/var(--resizer)*100) calc(0vw/var(--resizer)*100);
+  border-top: calc(1vw/var(--resizer)*100) solid rgb(241,243,244);
+}
+
+.control-imBpVhGY {
+  font-family: 'Brygada 1918', serif;
+  font-size: calc(16vw/var(--resizer)*100);
+  font-weight: 400;
+  color: #fff5a3;
+  text-decoration: none;
+  text-align: undefined;
+}
+
+.big-ynQAqBwKkzfnRw {
+  font-family: 'Brygada 1918', serif;
+  font-size: calc(16vw/var(--resizer)*100);
+  font-weight: 400;
+  color: #fff5a3;
+  text-decoration: none;
+  text-align: undefined;
+}
+
+.tagline-kPpgDlrglV {
+  font-family: 'Brygada 1918', serif;
+  font-size: calc(16vw/var(--resizer)*100);
+  font-weight: 400;
+  color: #fff5a3;
+  text-decoration: none;
+  text-align: undefined;
+}
+
+.grid-SauUVEQGjZSHQEb {
+  display: none;
+}
+
+
+.img-QNljaovtdoz {
+  display: flex;
+  position: relative;
+  max-width: 100%;
+  margin: 0 auto;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+}
+
+.wrap-ckmbBGhecb {
+  display: flex;
+  position: relative;
+  width: 100%;
+  margin: 0 auto;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+}
+
+.medium-TpOsIIuWWs {
+  display: flex;
+  position: relative;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+  gap: calc(27vw/var(--resizer)*100);
+  width: calc(500vw/var(--resizer)*100);
+}
+
+.tiny-aNKerKnjbzD {
+  display: flex;
+  position: relative;
+  justify-content: center;
+  align-items: center;
+  max-width: max-content;
+  gap: calc(24vw/var(--resizer)*100);
+  flex-wrap: wrap;
+}
+
+.content-xJZpsGsKsXxgE {
+  display: flex;
+  position: relative;
+  justify-content: center;
+  align-items: center;
+  width: calc(417vw/var(--resizer)*100);
+  height: calc(417vw/var(--resizer)*100);
+  border-radius: calc(36vw/var(--resizer)*100);
+  box-shadow: calc(2vw/var(--resizer)*100) calc(5vw/var(--resizer)*100) calc(8vw/var(--resizer)*100) calc(1vw/var(--resizer)*100) rgba(255, 245, 163, .1);
+}
+
+.row-lxNlVcRE {
+  display: flex;
+  position: relative;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+  gap: calc(27vw/var(--resizer)*100);
+  width: calc(500vw/var(--resizer)*100);
+}
+
+.heading-wEuYyQk {
+  display: flex;
+  position: relative;
+  justify-content: center;
+  align-items: center;
+  gap: calc(10vw/var(--resizer)*100);
+  border-radius: calc(43vw/var(--resizer)*100);
+  appURL: index.html;
+  width: 100%;
+  height: calc(50vw/var(--resizer)*100);
+}
+
+.preview-PBLhFJVsITjHXO {
+  display: flex;
+  position: relative;
+  justify-content: center;
+  align-items: center;
+  width: 35%;
+  height: calc(35vw/var(--resizer)*100);
+  border-radius: calc(43vw/var(--resizer)*100);
+  background-color: #dbaa8a;
+  appURL: index.html;
+  padding: calc(5vw/var(--resizer)*100) calc(5vw/var(--resizer)*100) calc(5vw/var(--resizer)*100) calc(5vw/var(--resizer)*100);
+  gap: calc(34vw/var(--resizer)*100);
+}
+
+.wrap-iBosQpe {
+  font-weight: 900;
+  font-family: 'Brygada 1918', serif;
+  color: #17165d;
+  font-size: calc(16vw/var(--resizer)*100);
+}
+
+.heading-bTGXdXLHEVRY {
+  display: flex;
+  position: relative;
+  justify-content: center;
+  align-items: center;
+  width: 35%;
+  height: calc(35vw/var(--resizer)*100);
+  border-radius: calc(43vw/var(--resizer)*100);
+  background-color: #fff5a3;
+  appURL: index.html;
+  padding: calc(5vw/var(--resizer)*100) calc(5vw/var(--resizer)*100) calc(5vw/var(--resizer)*100) calc(5vw/var(--resizer)*100);
+  gap: calc(34vw/var(--resizer)*100);
+}
+
+.big-TcbRshqfslYDZWf {
+  font-weight: 900;
+  font-family: 'Brygada 1918', serif;
+  color: #17165d;
+  font-size: calc(16vw/var(--resizer)*100);
+}
+
+.thumbnail-bjAiDoaTjk {
+  display: flex;
+  position: relative;
+  justify-content: center;
+  align-items: center;
+  max-width: calc(650vw/var(--resizer)*100);
+  gap: calc(15vw/var(--resizer)*100);
+  margin: auto auto auto auto;
+  flex-direction: column;
+  text-align: center;
+  width: calc(500vw/var(--resizer)*100);
+}
+
+.small-fQYhbHR {
+  font-family: 'Brygada 1918', serif;
+  font-size: calc(46vw/var(--resizer)*100);
+  font-weight: 900;
+  color: #fff5a3;
+}
+
+.subtitle-plKsCHiBINN {
+  font-family: 'Brygada 1918', serif;
+  font-size: calc(16vw/var(--resizer)*100);
+  font-weight: 400;
+  color: #fff5a3;
+  line-height: calc(24vw/var(--resizer)*100);
+}
+
+.aside-fahvonLhvshLYVO {
+  display: flex;
+  position: relative;
+  justify-content: center;
+  align-items: center;
+  width: 80%;
+  flex-direction: column;
+  gap: calc(29vw/var(--resizer)*100);
+  padding: calc(50vw/var(--resizer)*100) 10% calc(50vw/var(--resizer)*100) 10%;
+  background-color: #470099;
+}
+
+.image-jtznUDWnkvy {
+  display: flex;
+  position: relative;
+  justify-content: center;
+  align-items: center;
+  width: 92%;
+  padding: calc(50vw/var(--resizer)*100) calc(50vw/var(--resizer)*100) calc(50vw/var(--resizer)*100) calc(50vw/var(--resizer)*100);
+  gap: calc(26vw/var(--resizer)*100);
+  border-radius: calc(29vw/var(--resizer)*100);
+  border-top: calc(3vw/var(--resizer)*100) double #fff5a3;
+  flex-wrap: wrap;
+}
+
+.icon-wZvoyjfhjXhjHpbu {
+  font-family: 'Brygada 1918', serif;
+  font-size: calc(23vw/var(--resizer)*100);
+  font-weight: 400;
+  color: #fff5a3;
+  text-align: left;
+}
+
+.wrapper-tdQfbnhWGAcWO {
+  display: flex;
+  position: relative;
+  justify-content: wrap;
+  align-items: center;
+  width: auto;
+  gap: calc(5vw/var(--resizer)*100);
+  flex-direction: column;
+}
+
+.more-UlfnFnqFs {
+  display: flex;
+  position: relative;
+  justify-content: center;
+  align-items: center;
+}
+
+.xl-rQxFdP {
+  display: flex;
+  position: relative;
+  justify-content: center;
+  align-items: center;
+  width: max-content;
+  height: max-content;
+}
+
+.btn-zJPduXkjUuVFTq {
+  color: #fff5a3;
+  font-size: calc(18vw/var(--resizer)*100);
+  font-style: bold;
+}
+
+.pic-tFDpVutMsSu {
+  display: flex;
+  position: relative;
+  justify-content: center;
+  align-items: center;
+}
+
+.userpic-bZSqkI {
+  display: flex;
+  position: relative;
+  justify-content: center;
+  align-items: center;
+  width: max-content;
+  height: max-content;
+}
+
+.inner-MWTagGtFfoxwc {
+  color: #fff5a3;
+  font-size: calc(18vw/var(--resizer)*100);
+  font-style: bold;
+}
+
+.xs-JfPDiFxRZPRUtJTv {
+  display: flex;
+  position: relative;
+  justify-content: center;
+  align-items: center;
+  width: 80%;
+  padding: calc(50vw/var(--resizer)*100) 10% calc(50vw/var(--resizer)*100) 10%;
+  gap: calc(37vw/var(--resizer)*100);
+  flex-direction: column;
+  background-color: #470099;
+}
+
+.row-AQDJINgVxth {
+  display: flex;
+  position: relative;
+  justify-content: center;
+  align-items: center;
+}
+
+.section-xPakHhkBWsgB {
+  display: flex;
+  position: relative;
+  justify-content: center;
+  align-items: center;
+  max-width: calc(650vw/var(--resizer)*100);
+  gap: calc(15vw/var(--resizer)*100);
+  margin: auto auto auto auto;
+  flex-direction: column;
+  text-align: center;
+}
+
+.subtitle-PyAOfH {
+  font-family: 'Brygada 1918', serif;
+  font-size: calc(46vw/var(--resizer)*100);
+  font-weight: 900;
+  color: #fff5a3;
+}
+
+.control-DrvKHjBK {
+  display: flex;
+  position: relative;
+  justify-content: center;
+  align-items: center;
+  gap: calc(47vw/var(--resizer)*100);
+  flex-direction: row;
+}
+
+.more-eUBQDMx {
+  display: flex;
+  position: relative;
+  margin: auto;
+  border: none;
+  justify-content: center;
+  align-items: center;
+  box-sizing: border-box;
+  width: calc(250vw/var(--resizer)*100);
+  height: calc(50vw/var(--resizer)*100);
+  padding: calc(0vw/var(--resizer)*100) calc(10vw/var(--resizer)*100) calc(0vw/var(--resizer)*100) calc(10vw/var(--resizer)*100);
+  color: #fff5a3;
+  background-color: #470099;
+  font-size: calc(16vw/var(--resizer)*100);
+  text-align: undefined;
+  border-radius: calc(5vw/var(--resizer)*100);
+}
+
+.avatar-NXnJKmSuIglRz {
+  display: flex;
+  position: relative;
+  margin: auto;
+  border: none;
+  justify-content: center;
+  align-items: center;
+  box-sizing: border-box;
+  width: calc(250vw/var(--resizer)*100);
+  height: calc(50vw/var(--resizer)*100);
+  padding: calc(0vw/var(--resizer)*100) calc(10vw/var(--resizer)*100) calc(0vw/var(--resizer)*100) calc(10vw/var(--resizer)*100);
+  color: #17165d;
+  background-color: #dbaa8a;
+  font-size: calc(16vw/var(--resizer)*100);
+  border-radius: calc(5vw/var(--resizer)*100);
+}
+
+.heading-cbNRQlykui {
+  display: flex;
+  position: relative;
+  justify-content: center;
+  align-items: center;
+  width: 80%;
+  padding: calc(50vw/var(--resizer)*100) 10% calc(0vw/var(--resizer)*100) 10%;
+  background-color: #470099;
+  flex-direction: column;
+}
+
+.page-SvbVLBX {
+  display: flex;
+  position: relative;
+  justify-content: space-between;
+  align-items: center;
+  width: 100%;
+  margin: auto auto auto auto;
+  padding: calc(50vw/var(--resizer)*100) calc(0vw/var(--resizer)*100) calc(50vw/var(--resizer)*100) calc(0vw/var(--resizer)*100);
+  border-top: calc(1vw/var(--resizer)*100) solid rgb(241,243,244);
+}
+
+.box-LWmvWfoxpu {
+  font-family: 'Brygada 1918', serif;
+  font-size: calc(16vw/var(--resizer)*100);
+  font-weight: 400;
+  color: #fff5a3;
+  text-decoration: none;
+  text-align: undefined;
+}
+
+.container-cPTYufn {
+  font-family: 'Brygada 1918', serif;
+  font-size: calc(16vw/var(--resizer)*100);
+  font-weight: 400;
+  color: #fff5a3;
+  text-decoration: none;
+  text-align: undefined;
+}
+
+.wrapper-RddXZOIZJWsmkhYi {
+  font-family: 'Brygada 1918', serif;
+  font-size: calc(16vw/var(--resizer)*100);
+  font-weight: 400;
+  color: #fff5a3;
+  text-decoration: none;
+  text-align: undefined;
+}
+
+.subtitle-DuceRnLupsZbYonj {
+  display: none;
+}
+
